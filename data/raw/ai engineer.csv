@@ -1,0 +1,280 @@
+﻿,Position,Company,Location,Work Mode,Description
+0,Gen AI Engineer,Rivago Infotech Inc,Canada,Remote,"About the job
+Job Description:
+We are seeking a Gen AI Engineer to join an innovative team working on cutting-edge Generative AI projects within the healthcare domain. This role is ideal for someone passionate about LLMs, fine-tuning models, and building AI-driven solutions at scale.
+Key Responsibilities:
+Design and develop AI solutions using LLMs, Generative AI models, and tools such as LangChain.
+Build and manage pipelines for training, fine-tuning, and deploying models using platforms like Google Vertex AI and open-source frameworks.
+Integrate AI models into production workflows and enterprise systems.
+Evaluate and optimize pre-trained models (e.g., GPT, BERT) for various business use cases.
+Perform data preprocessing, hyperparameter tuning, and model performance optimization.
+Collaborate with cross-functional teams including data scientists, engineers, and product managers.
+Document system architectures, workflows, and technical decisions for both technical and business audiences.
+Stay current with advancements in LLMs, Agentic AI, and GenAI frameworks.
+Research and experiment with new techniques to enhance solution quality and performance.
+Required Skills & Experience:
+Hands-on experience with LLMs and Generative AI (e.g., GPT, BERT).
+Proficiency in building pipelines using platforms like Vertex AI or similar.
+Strong programming skills in Python and experience with LangChain or similar frameworks.
+Experience integrating AI into enterprise or production-level systems.
+Solid understanding of data engineering principles and model evaluation.
+Excellent communication skills and ability to work in collaborative environments."
+1,NLP Engineer,Insilico Medicine,,,"About the job
+About Insilico 
+Insilico Medicine is an end-to-end, artificial intelligence (AI) -driven pharma- biotechnology company with a mission to accelerate drug discovery and development by leveraging our rapidly evolving, proprietary platform across biology, chemistry, and clinical development. 
+For more info, visit our website https://insilico.com 
+
+About Role 
+Insilico Medicine is looking for a Machine Learning Engineer specializing in Natural Language Processing (NLP) tasks within the biomedical and materials science domains. The role focuses on areas such as text classification, information extraction from abstracts, patents, and clinical trials, multi-task learning, knowledge graph construction, and fine-tuning large language models (LLMs) for chemical and biomedical applications. 
+
+Place of work 
+
+3710-1250 René-Lévesque West Boulevard, Montreal,QC-H3B 4W8,Canad
+
+Reports to 
+
+NLP Team Lead (AI R&D) 
+
+Responsibilities 
+Fine-tune and optimize Large Language Models on domain-specific or custom datasets. 
+Analyze errors, identify system limitations, and propose enhancements. 
+Search and review state-of-the-art solutions and new datasets for NLP tasks. 
+Design scalable and maintainable engineering solutions inspired by the latest research and innovation. 
+Translate academic innovation into scalable, maintainable engineering solutions. 
+Build and curate datasets using annotation tools, distant supervision, and expert annotations. 
+Collaborate closely with clients and internal stakeholders to align research-driven initiatives with business needs. 
+
+General Requirements: 
+I. Education 
+
+Master’s degree or PhD in Computer Science, Machine Learning, or a related field. 
+II. Experience and Skills 
+
+5+ years of hands-on experience in NLP, Machine Learning, and Deep Learning. 
+Strong understanding of Machine Learning, Deep Learning and AI. 
+Strong proficiency in Python programming. 
+Motivation to learn new things and apply creative solutions. 
+Hands-on experience in scaling and optimizing large language model (LLM) training and fine-tuning, including multi-GPU/multi-node setups. 
+Familiarity with frameworks like DeepSpeed, FSDP, Megatron-LM, or equivalent. 
+Ability to diagnose and resolve performance bottlenecks in distributed training. 
+Experience fine-tuning LLMs (e.g. GPT, LLaMA, Mistral) on custom or domain-specific datasets. 
+
+Desirable skills: 
+Knowledge of chemistry and biology, particularly for domain-specific NLP applications in life sciences. 
+Familiarity with Reinforcement Learning concepts and frameworks. 
+
+Personal Attributes: 
+Motivation to explore and apply creative, cutting-edge solutions. 
+Strong communication and collaboration skills. 
+Ability to work independently in a dynamic, fast-paced environment."
+2,AI Engineer,Ares,,,"About the job
+About Ares
+The Problem
+Personal injury (PI) law is a $50+ B industry starved for technology. Every case spawns mountains of medical records and time-sucking documents that slow justice for the injured.
+
+Our Solution
+Ares flips the script. Our AI engine already turns raw medical records into a crystal-clear medical summaries in minutes and drafts legal documents that get insurers moving. 
+
+By using Ares, firms get:
+99% reduction in medical records review
+Increase revenue by 20% without additional headcount
+Get justice for victims, faster
+
+Our Mission
+Our current platform is just chapter one. We’re racing toward a future where every repetitive task in PI law is eliminated via AI automation—globally.
+
+Founded by an ex-Meta tech lead (YC & Antler alum) who’s shipped products to billions, we’re profitable, trusted by firms across the US, and backed by furious customer pull.
+
+About the Role
+You’ll be the first engineering hire and technical counterpart to the founder. Our job: turn Ares into the AI operating system for every personal injury firm on earth. Expect full ownership of architecture, code, infra, and product decisions—because there’s nobody to “hand work off” to yet.
+
+What you’ll do:
+Own major features end-to-end: API design, backend logic, frontend UI, and everything in between
+Productionize LLM workloads (RAG, evals, fine-tuning) at scale.
+Work closely with customers to understand what matters, then ship fast
+Help shape our engineering culture, system architecture, and technical roadmap
+Solve real problems for real businesses, not imaginary ones
+
+The ideal candidate:
+Has built and shipped meaningful software at high-growth startups or tech-forward companies
+Hands-on with LLMs (prompt engineering, RAG, evals, fine-tuning).
+Understands tradeoffs, knows when to move fast, and when to polish
+Doesn’t need permission to start something, but knows when to ask for input
+Wants to own real outcomes—not just code
+Thrive in an on-site, 6-days a week, “ship-it-today” environment
+
+Why join us:
+Competitive compensation, with generous founding equity. This also means that we expect a lot from you.
+Build on a once-in-a-generation AI wave and see direct customer impact every week.
+Clear path to senior leadership as we scale engineering.
+Thrive in a high-energy, six-day in-office environment - constant white-board jams, instant feedback loops, and Friday demos followed by happy hour.
+Achieve explosive personal and professional growth while we build Ares into a unicorn. 
+
+Our Stack
+Backend: Python, Flask 
+Frontend: React/Next.JS, TypeScript, Tailwind
+Infra: AWS, Supabase, Railway 
+AI: OpenAI, LangSmith, Pydantic
+
+Interview Process
+The entire process has 4 steps and takes around 1.5 week in total:
+Initial 15-30 minute phone screening interview.
+One 30-45 minute technical interview.
+One week fully-paid work trial.
+Full-time offer.
+
+You'll be working with the founders directly throughout the entire process."
+3,Generative AI Engineer,Alexa Translations,,,"About the job
+About Alexa Translations
+Alexa Translations provides translation services in the legal, financial, and securities sectors by leveraging proprietary A.I. technology and a team of highly specialized linguistic experts. Unmatched in speed and quality, our machine translation engine is best-in-class and specifically trained for the French-Canadian market. If that wasn’t enough, our technology is backed by two decades of award-winning client service.
+
+About the Role
+We are looking for a Generative AI Engineer to develop our next-generation intelligent translation and translation-related service engine, using Generative AI (GenAI) and Large Language Model (LLM) technologies. You will report to the team lead on GenAI, develop and implement state-of-the-art algorithms by fast prototyping, and collaborate with the software team to deploy models. We expect our Generative AI Engineer to stay current with the technological cutting edge and build applications of LLM and GenAI to machine translation with best industry practices, as well as having solid background and hands-on experience with deep learning, machine learning, natural language processing, and big data.
+
+Responsibilities
+Research and implement state-of-the-art LLM techniques including continued pre-training, instruction fine-tuning, preference alignment, and LLM deployment while also focusing on prompt engineering and GenAI more broadly
+Work closely with machine learning engineers and data scientists to design, build, and test models
+Contribute to technological innovations by staying current to the cutting-edge achievements of GenAI and LLM from industry and academia
+Develop efficient and scalable algorithms for training and inference of generative models, leveraging deep learning frameworks such as TensorFlow or PyTorch and optimizing performance on diverse hardware platforms
+Train and evaluate generative models using appropriate metrics and benchmarks, fine-tuning model parameters, architectures, and hyperparameters to optimize performance, stability, and generalization
+Work closely with software and DevOps engineers to deploy GenAI models
+Document code, algorithms, and experimental results, following best practices for reproducibility, version control, and software engineering, and contribute to internal knowledge sharing and continuous improvement initiatives.
+ Requirements
+Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Machine Learning, or related field
+1+ years of industry experience developing GenAI and LLM applications is preferred
+Proficiency in Python programming and software development practices, with experience in building and maintaining scalable, production-grade software systems
+Working knowledge and project-based record of all of the following: prompt tuning, RAG, ICL
+Working knowledge and project-based record of at least one of the following is a plus: continued pre-training, instruction fine-tuning, Agent
+Strong problem-solving skills, attention to detail, and the ability to work independently and collaboratively in a fast-paced environment
+Hands-on experience with Huggingface APIs or Amazon Bedrock
+Expert skills of Python, including PyTorch, TensorFlow, Pandas, etc
+Experience with cloud platforms like AWS, GCP, or Azure
+Self-driven, self-motivated with excellent time management skills
+Excellent communication skills, with the ability to convey complex technical concepts clearly and effectively to both technical and non-technical stakeholders
+Familiarity with GPU programming and optimization techniques for accelerating deep learning computations
+Ability to adapt to shifting priorities without compromising deadlines and momentum
+Prior experience in generative AI research, projects, or internships, with contributions to open-source projects or publications in relevant conferences or journals"
+4,"Research Engineer (Robotics) - World Modelling, FAIR | Ingénieur de recherche (robotique) - Modélisation du monde, FAIR",Meta,,,"About the job
+Meta is seeking a Research Engineer to join the Fundamental AI Research (FAIR) team, one of the top industrial AI research organizations in the world. Come join FAIR's efforts to build world models, learning to understand and make predictions about the physical world, especially from video, and develop efficient algorithms for world model-based planning and control.Our team is driving an ambitious agenda to train and use world models for embodied and wearable agents. We across related topics including self-supervised learning from video (e.g., joint-embedding predictive architectures/JEPAs), predictive models, model-based reinforcement learning and model-predictive control. We drive innovations across the stack, data curation, training large-scale state-of-the-art models, and designing robust benchmarks. We are looking for research engineers who share our passion for building efficient, scalable, and robust models of the world that will be part of the next paradigm of AI models.-------Meta recherche un ingénieur de recherche pour rejoindre l’équipe Fundamental AI Research (FAIR), l’une des principales organisations de recherche en IA industrielle au monde. Rejoignez les efforts de FAIR pour construire des modèles du monde, apprendre à comprendre et à faire des prédictions sur le monde physique, en particulier à partir de vidéos, et développer des algorithmes efficaces pour la planification et le contrôle basés sur les modèles du monde.Notre équipe mène un programme ambitieux de formation et d'utilisation de modèles mondiaux pour les agents incarnés et portables. Nous abordons des sujets connexes, notamment l'apprentissage auto-supervisé à partir de vidéos (par exemple, les architectures prédictives à encastrement conjoint/JEPA), les modèles prédictifs, l'apprentissage par renforcement basé sur des modèles et le contrôle prédictif basé sur des modèles. Nous sommes à l'origine d'innovations dans tous les domaines, qu'il s'agisse de la conservation des données, de l'entraînement de modèles de pointe à grande échelle ou de la conception de références robustes. Nous recherchons des ingénieurs de recherche qui partagent notre passion pour la création de modèles efficaces, évolutifs et robustes du monde qui feront partie du prochain paradigme des modèles d’IA.
+
+Research Engineer (Robotics) - World Modelling, FAIR | Ingénieur de recherche (robotique) - Modélisation du monde, FAIR Responsibilities:
+
+Leading, collaborating, and executing on research that pushes forward the state of the art in artificial intelligence | Diriger, collaborer et exécuter des recherches qui font progresser l’état de l’art en matière d’intelligence artificielle
+Contributing to experimental design, implementation, evaluation, and reporting results | Contribuer à la conception expérimentale, à la mise en œuvre, à l’évaluation et à la communication des résultats
+Working with and creating large datasets and evaluation benchmarks | Travailler et créer de grands ensembles de données et de références d'évaluation
+Collaborating with scientists and engineers in a large cross-functional team | Collaborer avec des scientifiques et des ingénieurs au sein d’une grande équipe interfonctionnelle
+Building optimized software tooling and infrastructure to accelerate research outcomes | Créer des outils et des infrastructures logiciels optimisés pour accélérer les résultats de la recherche
+Influence progress of relevant research communities by producing publications | Influencer les avancées de groupes de chercheurs et de chercheuses pertinents grâce à la publication d’articles.
+Open source high quality code and produce reproducible research | Mettre à disposition du public un code de haute qualité et mener des recherches reproductibles.
+
+Minimum Qualifications:
+
+Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta. | Être titulaire ou en voie d'obtention d'une licence en informatique, en ingénierie informatique ou dans un domaine technique pertinent, ou posséder une expérience pratique équivalente. Le diplôme doit être obtenu avant de rejoindre Meta.
+Master's degree in Computer Science, Computer Engineering, a relevant technical field, and 2+ years of equivalent domain-specific industry experience | Maîtrise en informatique, en génie informatique, dans un domaine technique pertinent et 2 ans ou plus d’expérience équivalente dans un secteur spécifique au domaine
+Research background in machine learning, artificial intelligence, computational statistics, applied mathematics, or related areas | Expérience de recherche en apprentissage automatique, intelligence artificielle, statistiques computationnelles, mathématiques appliquées ou domaines connexes
+2+ years experience coding software and executing complex experiments | Plus de 2 ans d’expérience dans le codage de logiciels et l’exécution d’expériences complexes
+Experience with Python and PyTorch | Expérience avec Python et PyTorch
+Research experience in one or more of these areas: computer vision, multimodal perception, robotics, self-supervised representation learning, reinforcement learning and control | Faire valoir une expérience de recherche dans un ou plusieurs des domaines suivants : vision par ordinateur, perception multimodale, robotique, apprentissage de représentation auto-supervisé, apprentissage par renforcement et contrôle
+
+Preferred Qualifications:
+
+PhD in the field of Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience | Doctorat dans le domaine de l’informatique, du génie informatique, d’un domaine technique pertinent ou d’une expérience pratique équivalente
+Author-Contributed Research Publications in AI conferences like ICML, ICLR, NeurIPS, CVPR, ICCV, CoRL, or similar | Publications de recherche contribuées par l’auteur dans des conférences sur l’IA telles que ICML, ICLR, NeurIPS, CVPR, ICCV, CoRL ou similaires
+Demonstrated research and software engineering experience via work experience, coding competitions, or widely used contributions in open source repositories (e.g. GitHub). | Expérience démontrée en recherche et en ingénierie logicielle via une expérience professionnelle, des concours de codage ou des contributions largement utilisées dans des référentiels open source (par exemple GitHub).
+Experience with C++, CUDA and model optimization | Expérience avec C++, CUDA et l’optimisation de modèles
+Experience developing efficient, scalable distributed systems and/or training pipelines | Expérience dans le développement de systèmes distribués efficaces et évolutifs et/ou de pipelines de formation
+
+About Meta:
+
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+
+CA$104,000/year to CA$148,000/year + bonus + equity + benefits
+
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about  benefits  at Meta."
+5,AI and Data - Senior Consultant - AI/ML Engineer - Ottawa,EY,,,"About the job
+At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+The opportunity
+
+Your Key Responsibilities
+
+Collaborate with our client stakeholders to understand use cases and key business processes that the AI solutions will support.
+Work closely with cross-functional teams, architects, engineers to translate requirements in robust AI solutions integrating without client’s technology stack
+Continuously learn, experiment, and test new AI tools, platforms, technologies, and techniques.
+Create comprehensive test plans for AI-based applications, covering functional, performance, security, and ethical considerations
+
+Skills And Attributes For Success.
+
+Strong problem-solving skills and the ability to think creatively to overcome obstacles.
+Ability to work independently with minimal supervision.
+Excellent communication and interpersonal skills, with the ability to work collaboratively with both technical and non-technical stakeholders.
+Excellent time management and organizational skills, with the ability to prioritize competing demands effectively.
+
+To qualify for the role you must have
+
+Bachelor's degree in Computer Science, Engineering, or a related field.
+Experience with cloud-based AI services (e.g., AWS, Azure, GCP)
+2+ years of experience developing AI/ML solutions, including at least 1 year of AI/ML testing experience.
+Proficiency in Python and frameworks such as Tensorflow, PyTorch, or Scikit-learn.
+Familiarity with version control tools (e.g., Git)
+Experience working in agile development environments. 
+
+Ideally, you’ll also have
+
+Strong understanding of testing methodologies and frameworks for AI systems, including bias testing, performance testing, and security testing.
+Familiarity with Large Language Models, Natural Language Processing (NLP), and AI frameworks.
+Experience with testing tools such as DeepChecks, or similar AI-focused.
+Experience in API integration and development.
+This role involves interaction with clients operating nationally and globally where fluency in French and English is required. Bilingualism in both French and English is therefore a requirement of this role
+
+What We Offer
+
+At EY, our Total Rewards package supports our commitment to creating a leading people culture - built on high-performance teaming - where everyone can achieve their potential and contribute to building a better working world for our people, our clients and our communities. It's one of the many reasons we repeatedly win awards for being a great place to work.
+
+We offer a competitive compensation package where you’ll be rewarded based on your performance and recognized for the value you bring to our business. In addition, our Total Rewards package allows you to decide which benefits are right for you and which ones help you create a solid foundation for your future. Our Total Rewards package includes a comprehensive medical, prescription drug and dental coverage, a defined contribution pension plan, a great vacation policy plus firm paid days that allow you to enjoy longer long weekends throughout the year, statutory holidays and paid personal days (based on province of residence), and a range of exciting programs and benefits designed to support your physical, financial and social well-being. Plus, we offer:
+
+Support, coaching and feedback from some of the most engaging colleagues around
+Opportunities to develop new skills and progress your career
+The freedom and flexibility to handle your role in a way that’s right for you
+
+Diversity and Inclusion at EY
+
+Diversity and inclusiveness are at the heart of who we are and how we work. We’re committed to fostering an environment where differences are valued, policies and practices are equitable, and our people feel a sense of belonging. We embrace diversity and are committed to combating systemic racism, advancing gender equity and women in leadership, advocating for the 2SLGBTQIA+ community, promoting our neuroinclusion and accessibility initiatives, and are dedicated to amplifying the voices of Indigenous peoples (First Nations, Inuit, and Métis) nationally as we strive towards reconciliation. Our diverse experiences, abilities, backgrounds, and perspectives make our people unique and help guide us. Because when people feel free to be their authentic selves at work, they bring their best and are empowered to build a better working world.
+
+EY | Building a better working world 
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today."
+6,AI Adoption Specialist / AI Enablement Consultant,Confidential,"Montreal, QC",Hybrid,"About the job
+About Us
+We’re a fast-growing AI services firm dedicated to helping organizations harness the power of artificial intelligence. We partner with clients across industries to upskill their teams through engaging, practical training—both live online and in-person. As we expand our offerings, we’re looking for passionate AI Trainers to join our team and deliver transformative learning experiences.
+What You’ll Do
+Work alongside our specialists and client representatives to evaluate training requirements.
+Design & develop curriculum, creating comprehensive, role-based modules on AI fundamentals, prompt engineering, and real-world tool integration.
+Deliver interactive training, leading live virtual classes via Zoom, Teams, or proprietary platforms—using polls, breakout rooms, and hands-on exercises to maximize engagement.
+Facilitate in-person workshops at client sites, applying case-study methodology and live demos to deepen practical understanding.
+Produce supporting materials such as slide decks, quick-reference guides, video tutorials, and follow-up exercises to reinforce learning outcomes.
+Measure & report on success, defining key metrics (e.g., pre-/post-training assessments, user satisfaction scores) and delivering succinct ROI reports to clients.
+Stay current & share knowledge, updating content with the latest AI advancements and mentoring junior trainers to build organizational expertise.
+What We’re Looking For
+Educational Background: Bachelor’s degree in Computer Science, Data Science, Education, or a related field.
+Training Experience: 2+ years designing and delivering corporate training or workshops—ideally in AI, machine learning, or advanced analytics.
+Technical Proficiency: Hands-on familiarity with AI platforms (e.g., OpenAI/GPT, Azure AI, AWS SageMaker) and core ML concepts.
+Facilitation Skills: Exceptional verbal and written communication with the ability to simplify complex topics and troubleshoot live both online and in person.
+Personal Attributes:
+Strong consultative mindset and client-service orientation
+Adaptability and proactive learning of emerging AI trends
+Willingness to travel to deliver onsite workshops as needed
+Why Join Us?
+Impact: Enable professionals to transform workflows and drive measurable business value with AI.
+Variety: Engage with clients across sectors—from finance and healthcare to manufacturing and retail.
+Growth: Access ongoing professional development, peer mentoring, and exposure to cutting-edge AI projects.
+Flexibility: Balanced mix of virtual and on-site assignments, with support for work-life integration.
+How to Apply
+Please submit your resume outlining your training experience and why you’re passionate about AI education. We look forward to learning how you can help shape the future of work through AI-powered learning!
+Job Types: Part-time, Fixed term contract
+
+Work Location: Hybrid remote in Montréal, QC"

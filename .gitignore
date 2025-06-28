@@ -1,0 +1,7 @@
+credentials.env
+__pycache__/
+.ipynb_checkpoints/
+geckodriver.log
+.idea/
+.venv/
+.env

@@ -1,0 +1,328 @@
+﻿,Position,Company,Location,Work Mode,Description
+0,Gen AI Engineer,Rivago Infotech Inc,Canada,Remote,"About the job
+Job Description:
+We are seeking a Gen AI Engineer to join an innovative team working on cutting-edge Generative AI projects within the healthcare domain. This role is ideal for someone passionate about LLMs, fine-tuning models, and building AI-driven solutions at scale.
+Key Responsibilities:
+Design and develop AI solutions using LLMs, Generative AI models, and tools such as LangChain.
+Build and manage pipelines for training, fine-tuning, and deploying models using platforms like Google Vertex AI and open-source frameworks.
+Integrate AI models into production workflows and enterprise systems.
+Evaluate and optimize pre-trained models (e.g., GPT, BERT) for various business use cases.
+Perform data preprocessing, hyperparameter tuning, and model performance optimization.
+Collaborate with cross-functional teams including data scientists, engineers, and product managers.
+Document system architectures, workflows, and technical decisions for both technical and business audiences.
+Stay current with advancements in LLMs, Agentic AI, and GenAI frameworks.
+Research and experiment with new techniques to enhance solution quality and performance.
+Required Skills & Experience:
+Hands-on experience with LLMs and Generative AI (e.g., GPT, BERT).
+Proficiency in building pipelines using platforms like Vertex AI or similar.
+Strong programming skills in Python and experience with LangChain or similar frameworks.
+Experience integrating AI into enterprise or production-level systems.
+Solid understanding of data engineering principles and model evaluation.
+Excellent communication skills and ability to work in collaborative environments."
+1,AI Engineer,Ares,,,"About the job
+About Ares
+The Problem
+Personal injury (PI) law is a $50+ B industry starved for technology. Every case spawns mountains of medical records and time-sucking documents that slow justice for the injured.
+
+Our Solution
+Ares flips the script. Our AI engine already turns raw medical records into a crystal-clear medical summaries in minutes and drafts legal documents that get insurers moving. 
+
+By using Ares, firms get:
+99% reduction in medical records review
+Increase revenue by 20% without additional headcount
+Get justice for victims, faster
+
+Our Mission
+Our current platform is just chapter one. We’re racing toward a future where every repetitive task in PI law is eliminated via AI automation—globally.
+
+Founded by an ex-Meta tech lead (YC & Antler alum) who’s shipped products to billions, we’re profitable, trusted by firms across the US, and backed by furious customer pull.
+
+About the Role
+You’ll be the first engineering hire and technical counterpart to the founder. Our job: turn Ares into the AI operating system for every personal injury firm on earth. Expect full ownership of architecture, code, infra, and product decisions—because there’s nobody to “hand work off” to yet.
+
+What you’ll do:
+Own major features end-to-end: API design, backend logic, frontend UI, and everything in between
+Productionize LLM workloads (RAG, evals, fine-tuning) at scale.
+Work closely with customers to understand what matters, then ship fast
+Help shape our engineering culture, system architecture, and technical roadmap
+Solve real problems for real businesses, not imaginary ones
+
+The ideal candidate:
+Has built and shipped meaningful software at high-growth startups or tech-forward companies
+Hands-on with LLMs (prompt engineering, RAG, evals, fine-tuning).
+Understands tradeoffs, knows when to move fast, and when to polish
+Doesn’t need permission to start something, but knows when to ask for input
+Wants to own real outcomes—not just code
+Thrive in an on-site, 6-days a week, “ship-it-today” environment
+
+Why join us:
+Competitive compensation, with generous founding equity. This also means that we expect a lot from you.
+Build on a once-in-a-generation AI wave and see direct customer impact every week.
+Clear path to senior leadership as we scale engineering.
+Thrive in a high-energy, six-day in-office environment - constant white-board jams, instant feedback loops, and Friday demos followed by happy hour.
+Achieve explosive personal and professional growth while we build Ares into a unicorn. 
+
+Our Stack
+Backend: Python, Flask 
+Frontend: React/Next.JS, TypeScript, Tailwind
+Infra: AWS, Supabase, Railway 
+AI: OpenAI, LangSmith, Pydantic
+
+Interview Process
+The entire process has 4 steps and takes around 1.5 week in total:
+Initial 15-30 minute phone screening interview.
+One 30-45 minute technical interview.
+One week fully-paid work trial.
+Full-time offer.
+
+You'll be working with the founders directly throughout the entire process."
+2,Data Engineer,Insight Global,"Montreal, QC",Hybrid,"About the job
+Overview:
+We are seeking a skilled and forward-thinking Data Engineer to optimize clinical data management systems and support the evolving needs of digital healthcare. This role is pivotal in designing, implementing, and maintaining robust data pipelines that ensure the availability, integrity, and security of critical healthcare data. The ideal candidate will also lead the modernization of data infrastructure, including cloud migration and the integration of advanced analytics technologies.
+Key Responsibilities
+General Functions
+Analyze the performance of existing data systems to identify areas for improvement and develop solutions that enhance operational efficiency across clinical workflows.
+Collaborate with cross-functional IT teams to deploy scalable data storage architectures that enable real-time data access while maintaining compliance with healthcare security standards.
+Domain Expertise
+Manage and optimize data flows between on-premise and cloud environments, ensuring seamless integration and accessibility of clinical data across diverse platforms.
+Design and maintain databases tailored to clinical applications, including schema development for specialized use cases such as clinical trials, electronic health records (EHRs), and genomic research.
+Data Architecture
+Develop and implement data warehousing solutions that meet the regulatory and operational demands of the healthcare sector, with a focus on integrating data from multiple EHR systems and Health Information Exchanges (HIEs).
+Apply industry best practices for data security, auditing, and compliance using modern cloud platforms such as AWS, Microsoft Azure, and Google Cloud Platform.
+Technical Proficiency
+Demonstrate expertise in data integration technologies, including ETL/ELT tools, and proficiency in both SQL and NoSQL database systems.
+Possess in-depth knowledge of healthcare data standards such as HL7, FHIR, and DICOM, and experience working with coded medical terminologies like SNOMED CT and LOINC.
+Ensure compliance with healthcare data protection regulations, including HIPAA and GDPR, and incorporate these standards into the design and deployment of data solutions.
+Must be bilingual in French and English
+
+Aperçu :
+Nous recherchons un ingénieur des données compétent et tourné vers l’avenir pour optimiser les systèmes de gestion des données cliniques et répondre aux besoins évolutifs de la santé numérique. Ce rôle est essentiel pour concevoir, mettre en œuvre et maintenir des pipelines de données robustes garantissant la disponibilité, l’intégrité et la sécurité des données critiques du secteur de la santé. Le candidat idéal dirigera également la modernisation de l’infrastructure de données, y compris la migration vers le cloud et l’intégration de technologies avancées d’analyse de données.
+Responsabilités principales
+Fonctions générales
+Analyser la performance des systèmes de données existants afin d’identifier les opportunités d’amélioration et développer des solutions visant à accroître l’efficacité opérationnelle des processus cliniques.
+Collaborer avec les équipes TI multidisciplinaires pour déployer des architectures de stockage de données évolutives permettant un accès en temps réel tout en respectant les normes de sécurité du secteur de la santé.
+Expertise sectorielle
+Gérer et optimiser les flux de données entre les environnements sur site et dans le cloud, en assurant une intégration fluide et une accessibilité optimale des données cliniques sur diverses plateformes.
+Concevoir et maintenir des bases de données adaptées aux applications cliniques, y compris le développement de schémas pour des cas d’usage spécifiques tels que les essais cliniques, les dossiers médicaux électroniques (DME) et la recherche génomique.
+Architecture des données
+Développer et mettre en œuvre des solutions d’entrepôt de données conformes aux exigences réglementaires et opérationnelles du secteur de la santé, avec un accent particulier sur l’intégration des données issues de multiples systèmes DME et échanges d’informations de santé (HIE).
+Appliquer les meilleures pratiques en matière de sécurité des données, d’audit et de conformité, en utilisant des technologies cloud modernes telles qu’AWS, Microsoft Azure et Google Cloud Platform.
+Compétences techniques
+Maîtriser les technologies d’intégration de données, y compris les outils ETL/ELT, ainsi que les bases de données SQL et NoSQL.
+Posséder une connaissance approfondie des normes de données cliniques telles que HL7, FHIR et DICOM, ainsi qu’une expérience avec les terminologies médicales codées comme SNOMED CT et LOINC.
+Garantir la conformité avec les réglementations sur la protection des données de santé, notamment le HIPAA et le RGPD, et intégrer ces normes dans la conception et le déploiement des solutions de données.
+Exigence linguistique : Le candidat doit être bilingue en français et en anglais.
+
+Exact compensation may vary based on several factors, including skills, experience, and education.
+ Benefit packages for this role will start on the 31st day of employment and include medical, dental, and vision insurance, as well as short-term and long-term disability, life insurance and AD&D. Employees will also have access to a registered retirement savings account with employer matching. Employees in this role are also entitled to sick leave and/or other paid time off as provided by applicable law. If you are interested in this assignment and operate as an independent contractor, please reach out to us for more details.
+
+Rémunération et avantages :
+La rémunération exacte peut varier en fonction de plusieurs facteurs, notamment les compétences, l’expérience et le niveau d’éducation.
+Le régime d’avantages sociaux pour ce poste commencera à partir du 31ᵉ jour d’emploi et comprendra une assurance médicale, dentaire et de la vue, ainsi qu’une assurance invalidité de courte et de longue durée, une assurance vie et une assurance décès et mutilation accidentels (AD&D). Les employés auront également accès à un régime enregistré d’épargne-retraite (REER) avec une contribution équivalente de l’employeur. Ce poste donne également droit à des congés de maladie et/ou à d’autres congés payés conformément à la législation en vigueur.
+Si vous êtes intéressé par ce mandat et que vous travaillez à titre de contractuel indépendant, veuillez nous contacter pour plus de détails."
+3,Artificial Intelligence Software Developer,MaintainX,,,"About the job
+MaintainX is the world's leading Asset and Work Intelligence platform for industrial and frontline environments. We are a modern IoT-enabled cloud-based tool for reliability, safety, and operations on physical equipment and facilities. MaintainX powers operational excellence for 10,000+ businesses including Duracell, Univar Solutions Inc., Titan America, McDonald's, Brenntag, Cintas, Xylem, and Shell.
+
+We've raised $104 million in venture capital following a recent Series C funding round led by Bain Capital Ventures, Bessemer Ventures, August Capital, Amity Ventures, Ridge Ventures as well as CEO’s from GE, Twilio, Coupa, Toast and PagerDuty.
+
+We're looking for a Software Engineer with experience building AI-powered applications leveraging LLMs. You’ll design and deploy intelligent features that integrate with web apps and backend systems. You’ll work closely with product and engineering teams to build scalable, production-ready solutions. This role blends hands-on full-stack development with cutting-edge AI capabilities.
+
+What You’ll Do
+
+Design, develop, and deploy AI-powered applications utilizing LLMs and other models to solve complex business problems.
+Ensure seamless integration of AI models with web applications and backend services.
+Implement and optimize algorithms for performance and scalability, ensuring efficient end-to-end solutions.
+Collaborate with product managers, designers, and engineers to define product requirements and integrate AI capabilities into customer-facing applications.
+Contribute to engineering best practices, including code quality, security, and deployment processes.
+Participate in on-call duties.
+
+About You
+
+Proven experience implementing LLM-powered applications, including prompt engineering, retrieval mechanisms, agentic workflows and integrating external knowledge sources.
+3+ years of professional experience in full-stack software development, including 1+ year of experience working with LLMs.
+Strong programming skills in Python and/or JavaScript/TypeScript, with experience using LLM frameworks such as LlamaIndex, LangChain and LangGraph.
+Experience with cloud providers (AWS/Azure/GCP) and deploying AI services at scale.
+Knowledge of modern web development frameworks (React, Node.js) and API design.
+Strong problem-solving skills, with the ability to design scalable AI-powered solutions.
+Excellent communication skills to explain complex AI concepts to non-technical stakeholders.
+Actively keeps up with recent advancements in LLMs and AI, including new models, tools, and industry trends.
+
+Bonus Skills
+
+Built multi-modal applications.
+Implemented guardrails and evaluation pipelines for LLM-driven applications.
+Skilled in training, fine-tuning, optimizing, and deploying language models.
+
+What’s In It For You
+
+Competitive salary and meaningful equity opportunities.
+Healthcare, dental, and vision coverage.
+401(k) / RRSP enrollment program.
+Take what you need PTO.
+A Work Culture where:
+You’ll work alongside folks across the globe that reflect the MaintainX values: Smart Humble Optimists.
+We believe in meritocracy, where ideas and effort are publicly celebrated.
+About Us
+
+Our mission is to make the lives of blue-collar workers easier worldwide by creating software that meets their needs and realities. Our product is truly life-changing for that 80% of the workforce who doesn’t work behind a desk and needs enterprise-grade software at their fingertips.
+
+MaintainX is committed to creating a diverse environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status."
+4,AI and Data - Senior Consultant - AI/ML Engineer - Ottawa,EY,,,"About the job
+At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+The opportunity
+
+Your Key Responsibilities
+
+Collaborate with our client stakeholders to understand use cases and key business processes that the AI solutions will support.
+Work closely with cross-functional teams, architects, engineers to translate requirements in robust AI solutions integrating without client’s technology stack
+Continuously learn, experiment, and test new AI tools, platforms, technologies, and techniques.
+Create comprehensive test plans for AI-based applications, covering functional, performance, security, and ethical considerations
+
+Skills And Attributes For Success.
+
+Strong problem-solving skills and the ability to think creatively to overcome obstacles.
+Ability to work independently with minimal supervision.
+Excellent communication and interpersonal skills, with the ability to work collaboratively with both technical and non-technical stakeholders.
+Excellent time management and organizational skills, with the ability to prioritize competing demands effectively.
+
+To qualify for the role you must have
+
+Bachelor's degree in Computer Science, Engineering, or a related field.
+Experience with cloud-based AI services (e.g., AWS, Azure, GCP)
+2+ years of experience developing AI/ML solutions, including at least 1 year of AI/ML testing experience.
+Proficiency in Python and frameworks such as Tensorflow, PyTorch, or Scikit-learn.
+Familiarity with version control tools (e.g., Git)
+Experience working in agile development environments. 
+
+Ideally, you’ll also have
+
+Strong understanding of testing methodologies and frameworks for AI systems, including bias testing, performance testing, and security testing.
+Familiarity with Large Language Models, Natural Language Processing (NLP), and AI frameworks.
+Experience with testing tools such as DeepChecks, or similar AI-focused.
+Experience in API integration and development.
+This role involves interaction with clients operating nationally and globally where fluency in French and English is required. Bilingualism in both French and English is therefore a requirement of this role
+
+What We Offer
+
+At EY, our Total Rewards package supports our commitment to creating a leading people culture - built on high-performance teaming - where everyone can achieve their potential and contribute to building a better working world for our people, our clients and our communities. It's one of the many reasons we repeatedly win awards for being a great place to work.
+
+We offer a competitive compensation package where you’ll be rewarded based on your performance and recognized for the value you bring to our business. In addition, our Total Rewards package allows you to decide which benefits are right for you and which ones help you create a solid foundation for your future. Our Total Rewards package includes a comprehensive medical, prescription drug and dental coverage, a defined contribution pension plan, a great vacation policy plus firm paid days that allow you to enjoy longer long weekends throughout the year, statutory holidays and paid personal days (based on province of residence), and a range of exciting programs and benefits designed to support your physical, financial and social well-being. Plus, we offer:
+
+Support, coaching and feedback from some of the most engaging colleagues around
+Opportunities to develop new skills and progress your career
+The freedom and flexibility to handle your role in a way that’s right for you
+
+Diversity and Inclusion at EY
+
+Diversity and inclusiveness are at the heart of who we are and how we work. We’re committed to fostering an environment where differences are valued, policies and practices are equitable, and our people feel a sense of belonging. We embrace diversity and are committed to combating systemic racism, advancing gender equity and women in leadership, advocating for the 2SLGBTQIA+ community, promoting our neuroinclusion and accessibility initiatives, and are dedicated to amplifying the voices of Indigenous peoples (First Nations, Inuit, and Métis) nationally as we strive towards reconciliation. Our diverse experiences, abilities, backgrounds, and perspectives make our people unique and help guide us. Because when people feel free to be their authentic selves at work, they bring their best and are empowered to build a better working world.
+
+EY | Building a better working world 
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today."
+5,IA/ML Engineer,Mia Innovation,,,"About the job
+Tu recherches un nouveau challenge en tant qu IA Specialist / ML Engineer au Canada ?
+Rejoins-nous chez Mia Innovation ! 
+
+🧠 À propos de nous
+MIA Innovation est le spécialiste en intelligence artificielle et en développement de logiciel sur mesure au Québec. Notre mission : créer des solutions innovantes ayant un impact sur la croissance des entreprises canadiennes. Chez MIA, nous croyons en l'utilisation de la technologie pour façonner l'avenir. Nous adoptons une approche proactive pour rester à la pointe de l'innovation technologique, constamment formés et certifiés dans les dernières technologies. Nous sommes spécialisés en stratégie, en IA, en data, en développement web et en infrastructure infonuagique.
+
+Notre philosophie de travail repose sur la transparence, l'avancement constant et l'innovation. Nous mettons nos clients au cœur de tout ce que nous faisons, travaillant en étroite collaboration avec eux pour comprendre leurs besoins et réaliser leur vision.
+
+Nous construisons des solutions efficaces grâce à l'intelligence artificielle dans divers domaines tels que la construction, la santé, le tourisme, le sport, et bien d'autres encore. Notre équipe est composée d'expert.e.es dédié.e.s et passionné.e.s, prêt.e.s à transformer les projets les plus ambitieux en réalité technologique.
+
+
+🚀 Les défis qui t’attendent
+
+En tant que spécialiste IA au sein de notre équipe, tu participeras à des projets à fort impact, dans un environnement agile et bienveillant :
+
+Tu dirigeras des initiatives de vision par ordinateur pour la conception de solution innovantes.
+Tu développeras des agents intelligents capables de soutenir la productivité de nos clients.
+Tu concevras des solutions techniques innovantes, performantes et évolutives.
+Tu développeras du code de qualité en utilisant Python, Django et les frameworks PyTorch, Tensorflow au sein d'équipes agiles et bienveillantes.
+Tu partageras les bonnes pratiques de développement et assureras la qualité des livrables conformément aux meilleures pratiques.
+
+🌟 Ce qui nous impressionnera chez toi
+ Tu as au moins 3 ans d'expérience en traitement automatique du langage naturel, vision par ordinateur et/ou apprentissage automatique.
+Tu es très à l'aise en codage Python avec des frameworks comme PyTorch, Tensorflow scikit-learn et pandas.
+ Tu as de l'expérience pratique avec des données : collecte, nettoyage, création de jeux d'évaluation.
+ Tu as de l'expérience avec GCP, Vertex, Azure et des systèmes internes.
+ Tu es capable de gérer de manière proactive la performance des logiciels.
+ Tu es persévérant et déterminé, même face à des résultats décevants.
+ Tu as une capacité d'apprentissage autonome sur les nouvelles technologies et méthodes de travail.
+
+❤️ Pourquoi rejoindre MIA ?
+ • Une mission porteuse de sens : mettre l’IA au service des entreprises du Québec.
+ • Des collègues brillants, drôles et engagés.
+ • Des projets variés, locaux, concrets, toujours à fort potentiel technologique.
+ • Une ambiance de travail flexible, hybride, avec un bureau inspirant à Montréal (au cœur du HUB IA sur la place des arts)
+ • Un package compétitif et un accompagnement personnalisé dans ta progression de carrière.
+
+Ce rôle est un rôle permanent - Temps plein
+
+
+💌 Prêt·e à transformer l’avenir avec nous ?
+Envoie-nous ton CV
+Tu veux jaser avant de postuler ? Écris-nous, on aime les rencontres humaines 💬
+
+Marion
+Cofondatrice Mia Innovation & Hub IA"
+6,Machine Learning Engineer,Synechron,"Mississauga, ON",Hybrid,"About the job
+We are
+At Synechron, we believe in the power of digital to transform businesses for the better. Our global consulting firm combines creativity and innovative technology to deliver industry-leading digital solutions. Synechron’s progressive technologies and optimization strategies span end-to-end Artificial Intelligence, Consulting, Digital, Cloud & DevOps, Data, and Software Engineering, servicing an array of noteworthy financial services and technology firms. Through research and development initiatives in our FinLabs we develop solutions for modernization, from Artificial Intelligence and Blockchain to Data Science models, Digital Underwriting, mobile-first applications and more. Over the last 20+ years, our company has been honored with multiple employer awards, recognizing our commitment to our talented teams. With top clients to boast about, Synechron has a global workforce of 14,500+, and has 58 offices in 21 countries within key global markets.
+
+Our challenge
+We are seeking a skilled Machine Learning Engineer with expertise in Spark ML, predictive modeling, and deploying training and inference pipelines on distributed systems such as Hadoop. The ideal candidate will design, implement, and optimize machine learning solutions for large-scale data processing and predictive analytics.
+
+
+Additional Information*
+The base salary for this position will vary based on geography and other factors. In accordance with law, the base salary for this role if filled within Mississauga, ON is CAD $110K - CAD $125K/year & benefits (see below).
+
+
+The Role
+Responsibilities:
+Develop and implement machine learning models using Spark ML for predictive analytics.
+Design and optimize training and inference pipelines for distributed systems (e.g., Hadoop).
+Process and analyze large-scale datasets to extract meaningful insights and features.
+Collaborate with data engineers to ensure seamless integration of ML workflows with data pipelines.
+Evaluate model performance and fine-tune hyperparameters to improve accuracy and efficiency.
+Implement scalable solutions for real-time and batch inference.
+Monitor and troubleshoot deployed models to ensure reliability and performance.
+Stay updated with advancements in machine learning frameworks and distributed computing technologies.
+
+Requirements:
+10+ years’ experience as a Machine Learning Engineer.
+Proficiency in Apache Spark and Spark MLlib for machine learning tasks.
+Strong understanding of predictive modeling techniques (e.g., regression, classification, clustering).
+Experience with distributed systems like Hadoop for data storage and processing.
+Proficiency in Python, Scala, or Java for ML development.
+Familiarity with data preprocessing techniques and feature engineering.
+Knowledge of model evaluation metrics and techniques.
+Experience with deploying ML models in production environments.
+Understanding of distributed computing concepts and parallel processing.
+
+Preferred skills:
+Agile, and SQL.
+
+We offer:
+A multinational organization with 58 offices in 21 countries and the possibility to work abroad.
+15 days (3 weeks) of paid annual leave plus an additional 10 days of personal leave (floating days and sick days).
+A comprehensive insurance plan including medical, dental, vision, life insurance, and long-term disability.
+Flexible hybrid policy.
+RRSP with employer’s contribution up to 4%.
+A higher education certification policy.
+On-demand Udemy for Business for all Synechron employees with free access to more than 5000 curated courses.
+Coaching opportunities with experienced colleagues from our Financial Innovation Labs (FinLabs) and Center of Excellences (CoE) groups.
+Cutting edge projects at the world’s leading tier-one banks, financial institutions and insurance firms.
+A truly diverse, fun-loving and global work culture.
+
+
+SYNECHRON’S DIVERSITY & INCLUSION STATEMENT
+
+Diversity & Inclusion are fundamental to our culture, and Synechron is proud to be an equal opportunity workplace and is an affirmative action employer. Our Diversity, Equity, and Inclusion (DEI) initiative ‘Same Difference’ is committed to fostering an inclusive culture – promoting equality, diversity and an environment that is respectful to all. We strongly believe that a diverse workforce helps build stronger, successful businesses as a global company. We encourage applicants from across diverse backgrounds, race, ethnicities, religion, age, marital status, gender, sexual orientations, or disabilities to apply. We empower our global workforce by offering flexible workplace arrangements, mentoring, internal mobility, learning and development programs, and more.
+
+All employment decisions at Synechron are based on business needs, job requirements and individual qualifications, without regard to the applicant’s gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law."

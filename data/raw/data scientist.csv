@@ -1,0 +1,277 @@
+﻿,Position,Company,Location,Work Mode,Description
+0,NLP Engineer,Insilico Medicine,,,"About the job
+About Insilico 
+Insilico Medicine is an end-to-end, artificial intelligence (AI) -driven pharma- biotechnology company with a mission to accelerate drug discovery and development by leveraging our rapidly evolving, proprietary platform across biology, chemistry, and clinical development. 
+For more info, visit our website https://insilico.com 
+
+About Role 
+Insilico Medicine is looking for a Machine Learning Engineer specializing in Natural Language Processing (NLP) tasks within the biomedical and materials science domains. The role focuses on areas such as text classification, information extraction from abstracts, patents, and clinical trials, multi-task learning, knowledge graph construction, and fine-tuning large language models (LLMs) for chemical and biomedical applications. 
+
+Place of work 
+
+3710-1250 René-Lévesque West Boulevard, Montreal,QC-H3B 4W8,Canad
+
+Reports to 
+
+NLP Team Lead (AI R&D) 
+
+Responsibilities 
+Fine-tune and optimize Large Language Models on domain-specific or custom datasets. 
+Analyze errors, identify system limitations, and propose enhancements. 
+Search and review state-of-the-art solutions and new datasets for NLP tasks. 
+Design scalable and maintainable engineering solutions inspired by the latest research and innovation. 
+Translate academic innovation into scalable, maintainable engineering solutions. 
+Build and curate datasets using annotation tools, distant supervision, and expert annotations. 
+Collaborate closely with clients and internal stakeholders to align research-driven initiatives with business needs. 
+
+General Requirements: 
+I. Education 
+
+Master’s degree or PhD in Computer Science, Machine Learning, or a related field. 
+II. Experience and Skills 
+
+5+ years of hands-on experience in NLP, Machine Learning, and Deep Learning. 
+Strong understanding of Machine Learning, Deep Learning and AI. 
+Strong proficiency in Python programming. 
+Motivation to learn new things and apply creative solutions. 
+Hands-on experience in scaling and optimizing large language model (LLM) training and fine-tuning, including multi-GPU/multi-node setups. 
+Familiarity with frameworks like DeepSpeed, FSDP, Megatron-LM, or equivalent. 
+Ability to diagnose and resolve performance bottlenecks in distributed training. 
+Experience fine-tuning LLMs (e.g. GPT, LLaMA, Mistral) on custom or domain-specific datasets. 
+
+Desirable skills: 
+Knowledge of chemistry and biology, particularly for domain-specific NLP applications in life sciences. 
+Familiarity with Reinforcement Learning concepts and frameworks. 
+
+Personal Attributes: 
+Motivation to explore and apply creative, cutting-edge solutions. 
+Strong communication and collaboration skills. 
+Ability to work independently in a dynamic, fast-paced environment."
+1,Gen AI Engineer,Rivago Infotech Inc,Canada,Remote,"About the job
+Job Description:
+We are seeking a Gen AI Engineer to join an innovative team working on cutting-edge Generative AI projects within the healthcare domain. This role is ideal for someone passionate about LLMs, fine-tuning models, and building AI-driven solutions at scale.
+Key Responsibilities:
+Design and develop AI solutions using LLMs, Generative AI models, and tools such as LangChain.
+Build and manage pipelines for training, fine-tuning, and deploying models using platforms like Google Vertex AI and open-source frameworks.
+Integrate AI models into production workflows and enterprise systems.
+Evaluate and optimize pre-trained models (e.g., GPT, BERT) for various business use cases.
+Perform data preprocessing, hyperparameter tuning, and model performance optimization.
+Collaborate with cross-functional teams including data scientists, engineers, and product managers.
+Document system architectures, workflows, and technical decisions for both technical and business audiences.
+Stay current with advancements in LLMs, Agentic AI, and GenAI frameworks.
+Research and experiment with new techniques to enhance solution quality and performance.
+Required Skills & Experience:
+Hands-on experience with LLMs and Generative AI (e.g., GPT, BERT).
+Proficiency in building pipelines using platforms like Vertex AI or similar.
+Strong programming skills in Python and experience with LangChain or similar frameworks.
+Experience integrating AI into enterprise or production-level systems.
+Solid understanding of data engineering principles and model evaluation.
+Excellent communication skills and ability to work in collaborative environments."
+2,AI Engineer,Ares,,,"About the job
+About Ares
+The Problem
+Personal injury (PI) law is a $50+ B industry starved for technology. Every case spawns mountains of medical records and time-sucking documents that slow justice for the injured.
+
+Our Solution
+Ares flips the script. Our AI engine already turns raw medical records into a crystal-clear medical summaries in minutes and drafts legal documents that get insurers moving. 
+
+By using Ares, firms get:
+99% reduction in medical records review
+Increase revenue by 20% without additional headcount
+Get justice for victims, faster
+
+Our Mission
+Our current platform is just chapter one. We’re racing toward a future where every repetitive task in PI law is eliminated via AI automation—globally.
+
+Founded by an ex-Meta tech lead (YC & Antler alum) who’s shipped products to billions, we’re profitable, trusted by firms across the US, and backed by furious customer pull.
+
+About the Role
+You’ll be the first engineering hire and technical counterpart to the founder. Our job: turn Ares into the AI operating system for every personal injury firm on earth. Expect full ownership of architecture, code, infra, and product decisions—because there’s nobody to “hand work off” to yet.
+
+What you’ll do:
+Own major features end-to-end: API design, backend logic, frontend UI, and everything in between
+Productionize LLM workloads (RAG, evals, fine-tuning) at scale.
+Work closely with customers to understand what matters, then ship fast
+Help shape our engineering culture, system architecture, and technical roadmap
+Solve real problems for real businesses, not imaginary ones
+
+The ideal candidate:
+Has built and shipped meaningful software at high-growth startups or tech-forward companies
+Hands-on with LLMs (prompt engineering, RAG, evals, fine-tuning).
+Understands tradeoffs, knows when to move fast, and when to polish
+Doesn’t need permission to start something, but knows when to ask for input
+Wants to own real outcomes—not just code
+Thrive in an on-site, 6-days a week, “ship-it-today” environment
+
+Why join us:
+Competitive compensation, with generous founding equity. This also means that we expect a lot from you.
+Build on a once-in-a-generation AI wave and see direct customer impact every week.
+Clear path to senior leadership as we scale engineering.
+Thrive in a high-energy, six-day in-office environment - constant white-board jams, instant feedback loops, and Friday demos followed by happy hour.
+Achieve explosive personal and professional growth while we build Ares into a unicorn. 
+
+Our Stack
+Backend: Python, Flask 
+Frontend: React/Next.JS, TypeScript, Tailwind
+Infra: AWS, Supabase, Railway 
+AI: OpenAI, LangSmith, Pydantic
+
+Interview Process
+The entire process has 4 steps and takes around 1.5 week in total:
+Initial 15-30 minute phone screening interview.
+One 30-45 minute technical interview.
+One week fully-paid work trial.
+Full-time offer.
+
+You'll be working with the founders directly throughout the entire process."
+3,"Research Engineer (Robotics) - World Modelling, FAIR | Ingénieur de recherche (robotique) - Modélisation du monde, FAIR",Meta,,,"About the job
+Meta is seeking a Research Engineer to join the Fundamental AI Research (FAIR) team, one of the top industrial AI research organizations in the world. Come join FAIR's efforts to build world models, learning to understand and make predictions about the physical world, especially from video, and develop efficient algorithms for world model-based planning and control.Our team is driving an ambitious agenda to train and use world models for embodied and wearable agents. We across related topics including self-supervised learning from video (e.g., joint-embedding predictive architectures/JEPAs), predictive models, model-based reinforcement learning and model-predictive control. We drive innovations across the stack, data curation, training large-scale state-of-the-art models, and designing robust benchmarks. We are looking for research engineers who share our passion for building efficient, scalable, and robust models of the world that will be part of the next paradigm of AI models.-------Meta recherche un ingénieur de recherche pour rejoindre l’équipe Fundamental AI Research (FAIR), l’une des principales organisations de recherche en IA industrielle au monde. Rejoignez les efforts de FAIR pour construire des modèles du monde, apprendre à comprendre et à faire des prédictions sur le monde physique, en particulier à partir de vidéos, et développer des algorithmes efficaces pour la planification et le contrôle basés sur les modèles du monde.Notre équipe mène un programme ambitieux de formation et d'utilisation de modèles mondiaux pour les agents incarnés et portables. Nous abordons des sujets connexes, notamment l'apprentissage auto-supervisé à partir de vidéos (par exemple, les architectures prédictives à encastrement conjoint/JEPA), les modèles prédictifs, l'apprentissage par renforcement basé sur des modèles et le contrôle prédictif basé sur des modèles. Nous sommes à l'origine d'innovations dans tous les domaines, qu'il s'agisse de la conservation des données, de l'entraînement de modèles de pointe à grande échelle ou de la conception de références robustes. Nous recherchons des ingénieurs de recherche qui partagent notre passion pour la création de modèles efficaces, évolutifs et robustes du monde qui feront partie du prochain paradigme des modèles d’IA.
+
+Research Engineer (Robotics) - World Modelling, FAIR | Ingénieur de recherche (robotique) - Modélisation du monde, FAIR Responsibilities:
+
+Leading, collaborating, and executing on research that pushes forward the state of the art in artificial intelligence | Diriger, collaborer et exécuter des recherches qui font progresser l’état de l’art en matière d’intelligence artificielle
+Contributing to experimental design, implementation, evaluation, and reporting results | Contribuer à la conception expérimentale, à la mise en œuvre, à l’évaluation et à la communication des résultats
+Working with and creating large datasets and evaluation benchmarks | Travailler et créer de grands ensembles de données et de références d'évaluation
+Collaborating with scientists and engineers in a large cross-functional team | Collaborer avec des scientifiques et des ingénieurs au sein d’une grande équipe interfonctionnelle
+Building optimized software tooling and infrastructure to accelerate research outcomes | Créer des outils et des infrastructures logiciels optimisés pour accélérer les résultats de la recherche
+Influence progress of relevant research communities by producing publications | Influencer les avancées de groupes de chercheurs et de chercheuses pertinents grâce à la publication d’articles.
+Open source high quality code and produce reproducible research | Mettre à disposition du public un code de haute qualité et mener des recherches reproductibles.
+
+Minimum Qualifications:
+
+Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta. | Être titulaire ou en voie d'obtention d'une licence en informatique, en ingénierie informatique ou dans un domaine technique pertinent, ou posséder une expérience pratique équivalente. Le diplôme doit être obtenu avant de rejoindre Meta.
+Master's degree in Computer Science, Computer Engineering, a relevant technical field, and 2+ years of equivalent domain-specific industry experience | Maîtrise en informatique, en génie informatique, dans un domaine technique pertinent et 2 ans ou plus d’expérience équivalente dans un secteur spécifique au domaine
+Research background in machine learning, artificial intelligence, computational statistics, applied mathematics, or related areas | Expérience de recherche en apprentissage automatique, intelligence artificielle, statistiques computationnelles, mathématiques appliquées ou domaines connexes
+2+ years experience coding software and executing complex experiments | Plus de 2 ans d’expérience dans le codage de logiciels et l’exécution d’expériences complexes
+Experience with Python and PyTorch | Expérience avec Python et PyTorch
+Research experience in one or more of these areas: computer vision, multimodal perception, robotics, self-supervised representation learning, reinforcement learning and control | Faire valoir une expérience de recherche dans un ou plusieurs des domaines suivants : vision par ordinateur, perception multimodale, robotique, apprentissage de représentation auto-supervisé, apprentissage par renforcement et contrôle
+
+Preferred Qualifications:
+
+PhD in the field of Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience | Doctorat dans le domaine de l’informatique, du génie informatique, d’un domaine technique pertinent ou d’une expérience pratique équivalente
+Author-Contributed Research Publications in AI conferences like ICML, ICLR, NeurIPS, CVPR, ICCV, CoRL, or similar | Publications de recherche contribuées par l’auteur dans des conférences sur l’IA telles que ICML, ICLR, NeurIPS, CVPR, ICCV, CoRL ou similaires
+Demonstrated research and software engineering experience via work experience, coding competitions, or widely used contributions in open source repositories (e.g. GitHub). | Expérience démontrée en recherche et en ingénierie logicielle via une expérience professionnelle, des concours de codage ou des contributions largement utilisées dans des référentiels open source (par exemple GitHub).
+Experience with C++, CUDA and model optimization | Expérience avec C++, CUDA et l’optimisation de modèles
+Experience developing efficient, scalable distributed systems and/or training pipelines | Expérience dans le développement de systèmes distribués efficaces et évolutifs et/ou de pipelines de formation
+
+About Meta:
+
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+
+CA$104,000/year to CA$148,000/year + bonus + equity + benefits
+
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about  benefits  at Meta."
+4,Spécialiste en développement de produits,Farinart,,,"About the job
+Farinart est une entreprise privée exploitant quatre (4) usines au Canada. S'approvisionnant en ingrédients issus de l’agriculture biologiques, conventionnelles et régénératives, Farinart développe des produits sur mesure tels que des mélanges de céréales et de graines, des mélanges à gâteau et à pâtisserie, des grains germés et des farines spéciales pour l'industrie de la boulangerie nord-américaine.
+ Durée: Remplacement de congé de maternité : mandat temporaire de 12 à 15 mois.
+ Le rôle: 
+Contribue au développement de nouvelles solutions à base de grains pour l’industrie de la boulangerie en élaborant des mélanges de grains ou de farines et des prémixes sur mesure qui répondent aux exigences clients et aux objectifs stratégiques de l'entreprise. Contribue aux projets d’innovation visant le développement et l'amélioration des ingrédients, des procédés et des produits finis. Partage la mission et la vision de Farinart en matière d’innovation et de création de valeur aux clients. Le candidat doit être passionné par les procédés de transformation des aliments, le développement et la mise en marché de nouveaux produits de boulangerie.
+
+Responsabilités
+o Gère et documente les projets de R&D liés à création de produits, à l’amélioration de produits existants ou à la réduction des coûts. Coordonne les étapes du processus de développement de nouveaux produits propres à chaque projet.
+o Développe de nouveaux produits en utilisant, lorsque nécessaire, de nouveaux ingrédients et/ou procédés, en prenant en compte les capacités de transformation de Farinart afin d'obtenir les meilleurs produits de leur catégorie respectives et de maximiser le rendement et les coûts de production.
+o Coordonne et facilite le transfert des prototypes de nouveaux produits vers la production à grande échelle.
+o Effectue des évaluations sensorielles et des études de durée de vie pour soutenir les lancements des produits.
+o Évalue, valide et coordonne la préparation des demandes des échantillons clients.
+o Utilise ses connaissances scientifiques en sciences technologie alimentaire, des grains, culinaire et biotechnologie pour apporter un support technique à l’équipe des ventes et aux clients dans l’implantation de nouvelles formulations et pour aider les collègues en R&D-Innovation, aux opérations et à l’approvisionnement pour optimiser les rendements et les coûts de production.
+o Collabore à la préparation de produits finis pour les présentations clients (pains, biscuits, gâteaux, tortillas, muffins, etc.) et les foires commerciales.
+o Effectue et interprète les résultats des analyses des matières premières, les mélanges et les produits de boulangerie fini. Prépare les fiches techniques des prototypes et des produits finis.
+o Travailler en étroite collaboration avec les équipes de marketing, de production et de qualité pour garantir la faisabilité, la mise en production et le succès commercial des nouveaux produits.
+o Organise régulièrement des dégustations des produits concurrents présents sur le marché de la grande distribution et de la restauration.
+o Représente la compagnie lors d’évènement de rencontres de l’industries de la boulangerie et de la transformation alimentaire (foires commerciales, conférences).
+
+Qualifications
+§ Détenir un baccalauréat et/ou une maîtrise en science et technologie des aliments.
+§ Posséder un minimum de 5 à 7 ans d’expérience dans le secteur agroalimentaire en recherche et développement
+§ Expérience en boulangerie ou de pâtisserie industrielle un atout important.
+§ Excellentes connaissances des lois et règlements applicables au secteur alimentaire.
+§ Maîtriser la suite Microsoft.
+§ Bonne maîtrise du français et de l'anglais (parlé et écrit) - nécessite d’interagir sur une base régulière avec des collègues et clients américains.
+§ Excellent esprit d’équipe.
+§ Leadership, bonnes aptitudes pour la communication et grand souci du détail.
+§ Excellent sens de l’organisation, capacité à gérer plusieurs projets simultanément ainsi qu’à structurer une grande quantité d’information.
+§ Autonomie, initiative, débrouillardise et rigueur.
+§ Proactivité et capacité à prendre des décisions éclairées en fonction des données recueillies et des retours des tests.
+
+Note : Le masculin est utilisé uniquement dans le but d’alléger le texte."
+5,Data Scientist,Yale University,,,"About the job
+Working at Yale means contributing to a better tomorrow. Whether you are a current resident of our New Haven-based community- eligible for opportunities through the New Haven Hiring Initiative or a newcomer, interested in exploring all that Yale has to offer, your talents and contributions are welcome. Discover your opportunities at Yale!
+
+Salary Range
+
+$79,700.00 - $124,025.00
+
+Overview Yale School of Public Health (YSPH) is seeking a highly skilled Data Scientist (DS). This is a unique opportunity for a skilled programmer motivated to produce rigorous, empirical evidence to improve policy. The ideal candidate is an expert programmer fluent in R or Python, has experience manipulating health care datasets and working with advanced machine learning libraries (Scikit-learn, Keras, TensorFlow). Exceptional understanding of causal inference and a commitment to YSPH’s mission are crucial. The individual will analyze data to solve research questions using cutting-edge techniques. The individual will be embedded within DSS where they will work across teams and data systems to preform novel linkages between programs, enabling new research into previously unanswerable questions. As part of this, the DS will build new infrastructure to support advanced analytics and rigorous policy evaluations which can scale to accommodate the future needs of DSS. The DS will develop and refine analytic plans with state-of-the-art statistical and econometric techniques to address research and quality improvement objectives at both Yale and DSS. They will develop novel predictive modelling capabilities within DSS using advanced machine learning techniques to improve the efficiency of current and future member-facing campaigns. After deployment, the DS will refine models with the goal of improving accuracy and targeting, and quantifying whether sophisticated techniques (e.g., deep learning) provide tangible benefits over current models. In addition to possessing highly technical quantitative skills, the DS must be an expert communicator with the ability to explain technical analyses to non-technical stakeholders, and they will act as a project lead on a multi-disciplinary team. The DS will lead the group’s ability to disseminate research findings. This includes distilling complicated research and designs down to succinct, impactful visualizations of results for academic papers and policy memos. The DS will lead in the drafting of manuscripts to ensure results are accurately and concisely communicated to the appropriate audience. The DS will be the programming expert, mentoring team members, ensuring best practices in coding, and developing new tools to assure data integrity. They will be responsible for reviewing code of less senior members and will document best practices and mentor other team members in statistical methods. The DS will develop new tools and infrastructure to verify the integrity of data and will create quality assurance checks and unit tests to validate data extracts and analyses. The DS will create novel data sets as a result of never-before-done data linkages and will proactively lead public and private data acquisition campaigns. The Position Focus above most accurately describes this role, while the Principal Responsibilities provides general context for all Data Scientist roles at Yale. Principal Responsibilities include function as an embedded Data Scientist within DSS, collaborating across teams to create innovative data linkages that facilitate new research and policy evaluation. Design and construct a new data infrastructure from the ground up to support advanced analytics and comprehensive, scalable policy assessments. Conduct thorough data analysis to address specific research questions using state-of-the-art techniques. Develop and refine predictive models within DSS to optimize efficiency and effectiveness of member services. Continuously improve these models post-deployment to enhance precision and efficacy. Lead efforts in communicating complex research findings through clear, effective visualizations and writings for various outputs such as academic papers, grant proposals, and policy briefs. Serve as a programming and data expert, mentoring team members, ensuring best practices in coding, and developing new analytic tools to assure data integrity. Required Skills and Abilities 1. Demonstrated experience with programming languages like R or Python and familiarity with machine learning libraries. 2. Strong communication skills with the ability to translate complex technical details into clear, actionable insights. 3. Knowledge of social science research methods, causal inference, and statistics. 4. Demonstrated experience manipulating large and complex datasets including Medicaid and health data. 5. Strong interpersonal skills, communication skills, and the ability to interact well with faculty, staff, fellows, and research partners internally and externally. Preferred Education, Experience and Skills Ph.D. in a quantitative field like Economics, Physics, Statistics, Mathematics, Data Science, Engineering, Health Policy or related fields. Health policy or health care research experience. Proven experience working with health data (especially Medicaid).
+
+Principal Responsibilities
+
+ Coordinates and manages diverse survey and experimental research projects, including research design, questionnaire development, implementation, and analysis, working with a multi-institutional team of investigators. 2. Authors public reports and peer-reviewed publications. 3. Constructs and maintains large datasets, including codebooks. 4. Maintains an online library of research reports and articles. 5. Assists with grant proposals. 6. Disseminates research findings through briefings, presentations, and social media. 7. May perform other duties as assigned. Required Education and Experience Master’s degree in a relevant social science field or discipline, such as survey research, risk perception, communication (climate change, science, environment, public health, and/or political communication), behavior change, psychology, political science, sociology, or human geography and four years of experience or an equivalent combination of education and experience. Proficiency and experience in survey and experimental research, project and data management, and analysis.
+
+Background Check Requirements
+
+All candidates for employment will be subject to pre-employment background screening for this position, which may include motor vehicle, DOT certification, drug testing and credit checks based on the position description and job requirements. All offers are contingent upon the successful completion of the background check. For additional information on the background check requirements and process visit ""Learn about background checks"" under the Applicant Support Resources section of Careers on the It's Your Yale website.
+
+Health Requirements
+
+Certain positions have associated health requirements based on specific job responsibilities. These may include vaccinations, tests, or examinations, as required by law, regulation, or university policy.
+
+Posting Disclaimer
+
+Salary offers are determined by a candidate’s qualifications, experience, skills, and education in relation to the position requirements, along with the role’s grade profile and current internal and external market conditions.
+
+The intent of this job description is to provide a representative summary of the essential functions that will be required of the position and should not be construed as a declaration of specific duties and responsibilities of the position. Employees will be assigned specific job-related duties through their hiring department.
+
+The University is committed to basing judgments concerning the admission, education, and employment of individuals upon their qualifications and abilities and seeks to attract to its faculty, staff, and student body qualified persons from a broad range of backgrounds and perspectives. In accordance with this policy and as delineated by federal and Connecticut law, Yale does not discriminate in admissions, educational programs, or employment against any individual on account of that individual’s sex, sexual orientation, gender identity or expression, race, color, national or ethnic origin, religion, age, disability, status as a special disabled veteran, veteran of the Vietnam era or other covered veteran.
+
+Inquiries concerning Yale's Policy Against Discrimination and Harassment may be referred to the Office of Institutional Equity and Accessibility (OIEA).
+
+Note
+
+Yale University is a tobacco-free campus."
+6,IA/ML Engineer,Mia Innovation,,,"About the job
+Tu recherches un nouveau challenge en tant qu IA Specialist / ML Engineer au Canada ?
+Rejoins-nous chez Mia Innovation ! 
+
+🧠 À propos de nous
+MIA Innovation est le spécialiste en intelligence artificielle et en développement de logiciel sur mesure au Québec. Notre mission : créer des solutions innovantes ayant un impact sur la croissance des entreprises canadiennes. Chez MIA, nous croyons en l'utilisation de la technologie pour façonner l'avenir. Nous adoptons une approche proactive pour rester à la pointe de l'innovation technologique, constamment formés et certifiés dans les dernières technologies. Nous sommes spécialisés en stratégie, en IA, en data, en développement web et en infrastructure infonuagique.
+
+Notre philosophie de travail repose sur la transparence, l'avancement constant et l'innovation. Nous mettons nos clients au cœur de tout ce que nous faisons, travaillant en étroite collaboration avec eux pour comprendre leurs besoins et réaliser leur vision.
+
+Nous construisons des solutions efficaces grâce à l'intelligence artificielle dans divers domaines tels que la construction, la santé, le tourisme, le sport, et bien d'autres encore. Notre équipe est composée d'expert.e.es dédié.e.s et passionné.e.s, prêt.e.s à transformer les projets les plus ambitieux en réalité technologique.
+
+
+🚀 Les défis qui t’attendent
+
+En tant que spécialiste IA au sein de notre équipe, tu participeras à des projets à fort impact, dans un environnement agile et bienveillant :
+
+Tu dirigeras des initiatives de vision par ordinateur pour la conception de solution innovantes.
+Tu développeras des agents intelligents capables de soutenir la productivité de nos clients.
+Tu concevras des solutions techniques innovantes, performantes et évolutives.
+Tu développeras du code de qualité en utilisant Python, Django et les frameworks PyTorch, Tensorflow au sein d'équipes agiles et bienveillantes.
+Tu partageras les bonnes pratiques de développement et assureras la qualité des livrables conformément aux meilleures pratiques.
+
+🌟 Ce qui nous impressionnera chez toi
+ Tu as au moins 3 ans d'expérience en traitement automatique du langage naturel, vision par ordinateur et/ou apprentissage automatique.
+Tu es très à l'aise en codage Python avec des frameworks comme PyTorch, Tensorflow scikit-learn et pandas.
+ Tu as de l'expérience pratique avec des données : collecte, nettoyage, création de jeux d'évaluation.
+ Tu as de l'expérience avec GCP, Vertex, Azure et des systèmes internes.
+ Tu es capable de gérer de manière proactive la performance des logiciels.
+ Tu es persévérant et déterminé, même face à des résultats décevants.
+ Tu as une capacité d'apprentissage autonome sur les nouvelles technologies et méthodes de travail.
+
+❤️ Pourquoi rejoindre MIA ?
+ • Une mission porteuse de sens : mettre l’IA au service des entreprises du Québec.
+ • Des collègues brillants, drôles et engagés.
+ • Des projets variés, locaux, concrets, toujours à fort potentiel technologique.
+ • Une ambiance de travail flexible, hybride, avec un bureau inspirant à Montréal (au cœur du HUB IA sur la place des arts)
+ • Un package compétitif et un accompagnement personnalisé dans ta progression de carrière.
+
+Ce rôle est un rôle permanent - Temps plein
+
+
+💌 Prêt·e à transformer l’avenir avec nous ?
+Envoie-nous ton CV
+Tu veux jaser avant de postuler ? Écris-nous, on aime les rencontres humaines 💬
+
+Marion
+Cofondatrice Mia Innovation & Hub IA"
