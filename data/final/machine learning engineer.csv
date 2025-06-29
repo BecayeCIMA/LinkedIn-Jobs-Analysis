@@ -1,0 +1,326 @@
+﻿title,company,city,work_mode,min_experience_years,description,specialization_1,specialization_2,specialization_3,tool_1,tool_2,tool_3,responsibility_1,responsibility_2,responsibility_3,skill_1,skill_2,skill_3,skill_4,skill_5,skill_6,skill_7,skill_8,skill_9,nice_to_have_1,education_level_1,education_level_2,tool_4,tool_5,tool_6,tool_7,tool_8,responsibility_4,nice_to_have_2,specialization_4,specialization_5,tool_9,tool_10,nice_to_have_3,Unnamed: 0,Position,Company,Location,Work Mode,Description
+Job Description,,,,0,Gen AI Engineer job description.,LLMs,Generative AI,LangChain,Google Vertex AI,Python,LangChain,Designing and developing AI solutions,Building and managing pipelines,Collaborating with cross-functional teams,,,,,,,,,,,,,,,,,,,,,,,,,0,Gen AI Engineer,Rivago Infotech Inc,Canada,Remote,"About the job
+Job Description:
+We are seeking a Gen AI Engineer to join an innovative team working on cutting-edge Generative AI projects within the healthcare domain. This role is ideal for someone passionate about LLMs, fine-tuning models, and building AI-driven solutions at scale.
+Key Responsibilities:
+Design and develop AI solutions using LLMs, Generative AI models, and tools such as LangChain.
+Build and manage pipelines for training, fine-tuning, and deploying models using platforms like Google Vertex AI and open-source frameworks.
+Integrate AI models into production workflows and enterprise systems.
+Evaluate and optimize pre-trained models (e.g., GPT, BERT) for various business use cases.
+Perform data preprocessing, hyperparameter tuning, and model performance optimization.
+Collaborate with cross-functional teams including data scientists, engineers, and product managers.
+Document system architectures, workflows, and technical decisions for both technical and business audiences.
+Stay current with advancements in LLMs, Agentic AI, and GenAI frameworks.
+Research and experiment with new techniques to enhance solution quality and performance.
+Required Skills & Experience:
+Hands-on experience with LLMs and Generative AI (e.g., GPT, BERT).
+Proficiency in building pipelines using platforms like Vertex AI or similar.
+Strong programming skills in Python and experience with LangChain or similar frameworks.
+Experience integrating AI into enterprise or production-level systems.
+Solid understanding of data engineering principles and model evaluation.
+Excellent communication skills and ability to work in collaborative environments."
+Job Description,Insilico Medicine,Montreal,full-time,5,"We are seeking a Gen AI Engineer to join an innovative team working on cutting-edge Generative AI projects within the healthcare domain. This role is ideal for someone passionate about LLMs, fine-tuning models, and building AI-driven solutions at scale.",Gen AI Engineer,NLP Team Lead,,DeepSpeed,FSDP,Megatron-LM,Design and develop AI solutions,Build and manage pipelines,Integrate AI models into production workflows,Natural Language Processing (NLP),Machine Learning,Deep Learning,Python,LLMs,Generative AI,LangChain,Vertex AI,Google Cloud Platform,Chemistry and Biology,Master's degree,PhD,LLaMA,Mistral,OpenCV,NumPy,Scikit-learn,Evaluate and optimize pre-trained models,,,,,,,1,NLP Engineer,Insilico Medicine,,,"About the job
+About Insilico 
+Insilico Medicine is an end-to-end, artificial intelligence (AI) -driven pharma- biotechnology company with a mission to accelerate drug discovery and development by leveraging our rapidly evolving, proprietary platform across biology, chemistry, and clinical development. 
+For more info, visit our website https://insilico.com 
+
+About Role 
+Insilico Medicine is looking for a Machine Learning Engineer specializing in Natural Language Processing (NLP) tasks within the biomedical and materials science domains. The role focuses on areas such as text classification, information extraction from abstracts, patents, and clinical trials, multi-task learning, knowledge graph construction, and fine-tuning large language models (LLMs) for chemical and biomedical applications. 
+
+Place of work 
+
+3710-1250 René-Lévesque West Boulevard, Montreal,QC-H3B 4W8,Canad
+
+Reports to 
+
+NLP Team Lead (AI R&D) 
+
+Responsibilities 
+Fine-tune and optimize Large Language Models on domain-specific or custom datasets. 
+Analyze errors, identify system limitations, and propose enhancements. 
+Search and review state-of-the-art solutions and new datasets for NLP tasks. 
+Design scalable and maintainable engineering solutions inspired by the latest research and innovation. 
+Translate academic innovation into scalable, maintainable engineering solutions. 
+Build and curate datasets using annotation tools, distant supervision, and expert annotations. 
+Collaborate closely with clients and internal stakeholders to align research-driven initiatives with business needs. 
+
+General Requirements: 
+I. Education 
+
+Master’s degree or PhD in Computer Science, Machine Learning, or a related field. 
+II. Experience and Skills 
+
+5+ years of hands-on experience in NLP, Machine Learning, and Deep Learning. 
+Strong understanding of Machine Learning, Deep Learning and AI. 
+Strong proficiency in Python programming. 
+Motivation to learn new things and apply creative solutions. 
+Hands-on experience in scaling and optimizing large language model (LLM) training and fine-tuning, including multi-GPU/multi-node setups. 
+Familiarity with frameworks like DeepSpeed, FSDP, Megatron-LM, or equivalent. 
+Ability to diagnose and resolve performance bottlenecks in distributed training. 
+Experience fine-tuning LLMs (e.g. GPT, LLaMA, Mistral) on custom or domain-specific datasets. 
+
+Desirable skills: 
+Knowledge of chemistry and biology, particularly for domain-specific NLP applications in life sciences. 
+Familiarity with Reinforcement Learning concepts and frameworks. 
+
+Personal Attributes: 
+Motivation to explore and apply creative, cutting-edge solutions. 
+Strong communication and collaboration skills. 
+Ability to work independently in a dynamic, fast-paced environment."
+Job Description,Insilico Medicine and Ares,"Montreal, QC-H3B 4W8, Canada",Full-time,5,Join an innovative team working on cutting-edge Generative AI projects within the healthcare domain.,Gen AI Engineer,Machine Learning Engineer,Natural Language Processing (NLP) tasks,Python,Flask,React/Next.JS,Design and develop AI solutions using LLMs,"Build and manage pipelines for training, fine-tuning, and deploying models",,NLP,Machine Learning,Deep Learning,LLMs,Python programming,LangChain,Google Vertex AI,Open-source frameworks,Data engineering principles,Chemistry and biology,Master's degree or PhD,,TypeScript,Tailwind,AWS,Supabase,Railway,,Reinforcement Learning concepts,LLMs fine-tuning models,Building AI-driven solutions at scale,OpenAI,LangSmith,,2,AI Engineer,Ares,,,"About the job
+About Ares
+The Problem
+Personal injury (PI) law is a $50+ B industry starved for technology. Every case spawns mountains of medical records and time-sucking documents that slow justice for the injured.
+
+Our Solution
+Ares flips the script. Our AI engine already turns raw medical records into a crystal-clear medical summaries in minutes and drafts legal documents that get insurers moving. 
+
+By using Ares, firms get:
+99% reduction in medical records review
+Increase revenue by 20% without additional headcount
+Get justice for victims, faster
+
+Our Mission
+Our current platform is just chapter one. We’re racing toward a future where every repetitive task in PI law is eliminated via AI automation—globally.
+
+Founded by an ex-Meta tech lead (YC & Antler alum) who’s shipped products to billions, we’re profitable, trusted by firms across the US, and backed by furious customer pull.
+
+About the Role
+You’ll be the first engineering hire and technical counterpart to the founder. Our job: turn Ares into the AI operating system for every personal injury firm on earth. Expect full ownership of architecture, code, infra, and product decisions—because there’s nobody to “hand work off” to yet.
+
+What you’ll do:
+Own major features end-to-end: API design, backend logic, frontend UI, and everything in between
+Productionize LLM workloads (RAG, evals, fine-tuning) at scale.
+Work closely with customers to understand what matters, then ship fast
+Help shape our engineering culture, system architecture, and technical roadmap
+Solve real problems for real businesses, not imaginary ones
+
+The ideal candidate:
+Has built and shipped meaningful software at high-growth startups or tech-forward companies
+Hands-on with LLMs (prompt engineering, RAG, evals, fine-tuning).
+Understands tradeoffs, knows when to move fast, and when to polish
+Doesn’t need permission to start something, but knows when to ask for input
+Wants to own real outcomes—not just code
+Thrive in an on-site, 6-days a week, “ship-it-today” environment
+
+Why join us:
+Competitive compensation, with generous founding equity. This also means that we expect a lot from you.
+Build on a once-in-a-generation AI wave and see direct customer impact every week.
+Clear path to senior leadership as we scale engineering.
+Thrive in a high-energy, six-day in-office environment - constant white-board jams, instant feedback loops, and Friday demos followed by happy hour.
+Achieve explosive personal and professional growth while we build Ares into a unicorn. 
+
+Our Stack
+Backend: Python, Flask 
+Frontend: React/Next.JS, TypeScript, Tailwind
+Infra: AWS, Supabase, Railway 
+AI: OpenAI, LangSmith, Pydantic
+
+Interview Process
+The entire process has 4 steps and takes around 1.5 week in total:
+Initial 15-30 minute phone screening interview.
+One 30-45 minute technical interview.
+One week fully-paid work trial.
+Full-time offer.
+
+You'll be working with the founders directly throughout the entire process."
+AI Engineer Jobs,Insilico Medicine,Montreal,Full-time,5,Gen AI Engineer job description: Seeking a Gen AI Engineer to join an innovative team working on cutting-edge Generative AI projects within the healthcare domain.,NLP tasks,Text classification,Information extraction,Flask,React/Next.JS,Python,Design and develop AI solutions,"Build and manage pipelines for training, fine-tuning, and deploying models",Integrate AI models into production workflows and enterprise systems,LLMs,Generative AI,Python,LangChain,Vertex AI,,,,,chemistry and biology knowledge,Master's degree,PhD,AWS,Supabase,Railway,OpenAI,LangSmith,,Reinforcement Learning concepts,,,,,,3,Artificial Intelligence Software Developer,MaintainX,,,"About the job
+MaintainX is the world's leading Asset and Work Intelligence platform for industrial and frontline environments. We are a modern IoT-enabled cloud-based tool for reliability, safety, and operations on physical equipment and facilities. MaintainX powers operational excellence for 10,000+ businesses including Duracell, Univar Solutions Inc., Titan America, McDonald's, Brenntag, Cintas, Xylem, and Shell.
+
+We've raised $104 million in venture capital following a recent Series C funding round led by Bain Capital Ventures, Bessemer Ventures, August Capital, Amity Ventures, Ridge Ventures as well as CEO’s from GE, Twilio, Coupa, Toast and PagerDuty.
+
+We're looking for a Software Engineer with experience building AI-powered applications leveraging LLMs. You’ll design and deploy intelligent features that integrate with web apps and backend systems. You’ll work closely with product and engineering teams to build scalable, production-ready solutions. This role blends hands-on full-stack development with cutting-edge AI capabilities.
+
+What You’ll Do
+
+Design, develop, and deploy AI-powered applications utilizing LLMs and other models to solve complex business problems.
+Ensure seamless integration of AI models with web applications and backend services.
+Implement and optimize algorithms for performance and scalability, ensuring efficient end-to-end solutions.
+Collaborate with product managers, designers, and engineers to define product requirements and integrate AI capabilities into customer-facing applications.
+Contribute to engineering best practices, including code quality, security, and deployment processes.
+Participate in on-call duties.
+
+About You
+
+Proven experience implementing LLM-powered applications, including prompt engineering, retrieval mechanisms, agentic workflows and integrating external knowledge sources.
+3+ years of professional experience in full-stack software development, including 1+ year of experience working with LLMs.
+Strong programming skills in Python and/or JavaScript/TypeScript, with experience using LLM frameworks such as LlamaIndex, LangChain and LangGraph.
+Experience with cloud providers (AWS/Azure/GCP) and deploying AI services at scale.
+Knowledge of modern web development frameworks (React, Node.js) and API design.
+Strong problem-solving skills, with the ability to design scalable AI-powered solutions.
+Excellent communication skills to explain complex AI concepts to non-technical stakeholders.
+Actively keeps up with recent advancements in LLMs and AI, including new models, tools, and industry trends.
+
+Bonus Skills
+
+Built multi-modal applications.
+Implemented guardrails and evaluation pipelines for LLM-driven applications.
+Skilled in training, fine-tuning, optimizing, and deploying language models.
+
+What’s In It For You
+
+Competitive salary and meaningful equity opportunities.
+Healthcare, dental, and vision coverage.
+401(k) / RRSP enrollment program.
+Take what you need PTO.
+A Work Culture where:
+You’ll work alongside folks across the globe that reflect the MaintainX values: Smart Humble Optimists.
+We believe in meritocracy, where ideas and effort are publicly celebrated.
+About Us
+
+Our mission is to make the lives of blue-collar workers easier worldwide by creating software that meets their needs and realities. Our product is truly life-changing for that 80% of the workforce who doesn’t work behind a desk and needs enterprise-grade software at their fingertips.
+
+MaintainX is committed to creating a diverse environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status."
+Gen AI Engineer,Insilico Medicine,"Montreal, QC",full-time,5,,LLMs,Generative AI,AI integration into production workflows,LangChain,Google Vertex AI,DeepSpeed,"Design and develop AI solutions using LLMs, Generative AI models","Build and manage pipelines for training, fine-tuning, and deploying models",,LLMs,Generative AI,LangChain,Google Vertex AI,Python,Data engineering principles,,,,chemistry and biology knowledge,Master's degree,,FSDP,Megatron-LM,,,,,Reinforcement Learning concepts,,,,,,4,AI Adoption Specialist / AI Enablement Consultant,Confidential,"Montreal, QC",Hybrid,"About the job
+About Us
+We’re a fast-growing AI services firm dedicated to helping organizations harness the power of artificial intelligence. We partner with clients across industries to upskill their teams through engaging, practical training—both live online and in-person. As we expand our offerings, we’re looking for passionate AI Trainers to join our team and deliver transformative learning experiences.
+What You’ll Do
+Work alongside our specialists and client representatives to evaluate training requirements.
+Design & develop curriculum, creating comprehensive, role-based modules on AI fundamentals, prompt engineering, and real-world tool integration.
+Deliver interactive training, leading live virtual classes via Zoom, Teams, or proprietary platforms—using polls, breakout rooms, and hands-on exercises to maximize engagement.
+Facilitate in-person workshops at client sites, applying case-study methodology and live demos to deepen practical understanding.
+Produce supporting materials such as slide decks, quick-reference guides, video tutorials, and follow-up exercises to reinforce learning outcomes.
+Measure & report on success, defining key metrics (e.g., pre-/post-training assessments, user satisfaction scores) and delivering succinct ROI reports to clients.
+Stay current & share knowledge, updating content with the latest AI advancements and mentoring junior trainers to build organizational expertise.
+What We’re Looking For
+Educational Background: Bachelor’s degree in Computer Science, Data Science, Education, or a related field.
+Training Experience: 2+ years designing and delivering corporate training or workshops—ideally in AI, machine learning, or advanced analytics.
+Technical Proficiency: Hands-on familiarity with AI platforms (e.g., OpenAI/GPT, Azure AI, AWS SageMaker) and core ML concepts.
+Facilitation Skills: Exceptional verbal and written communication with the ability to simplify complex topics and troubleshoot live both online and in person.
+Personal Attributes:
+Strong consultative mindset and client-service orientation
+Adaptability and proactive learning of emerging AI trends
+Willingness to travel to deliver onsite workshops as needed
+Why Join Us?
+Impact: Enable professionals to transform workflows and drive measurable business value with AI.
+Variety: Engage with clients across sectors—from finance and healthcare to manufacturing and retail.
+Growth: Access ongoing professional development, peer mentoring, and exposure to cutting-edge AI projects.
+Flexibility: Balanced mix of virtual and on-site assignments, with support for work-life integration.
+How to Apply
+Please submit your resume outlining your training experience and why you’re passionate about AI education. We look forward to learning how you can help shape the future of work through AI-powered learning!
+Job Types: Part-time, Fixed term contract
+
+Work Location: Hybrid remote in Montréal, QC"
+Job Description,Insilico Medicine,Montreal,Full-time,5,"Job Description: About the job Job Description: We are seeking a highly skilled Gen AI Engineer to join our team. As a Gen AI Engineer, you will be responsible for designing and developing AI solutions using LLMs. You will also build and manage pipelines for training, fine-tuning, and deploying models. The ideal candidate should have a Master's degree in Computer Science, Statistics, Mathematics, or a related field, 5+ years of experience in machine learning, and proficiency in Python, LLMs, and Google Vertex AI. We offer competitive salary and benefits, as well as opportunities for professional growth and development. If you are passionate about using technology to create innovative solutions, we encourage you to apply.",Gen AI Engineer,NLP Engineer,Machine Learning Engineer,Python,Flask,React/Next.JS,Design and develop AI solutions using LLMs,"Build and manage pipelines for training, fine-tuning, and deploying models",,LLMs,Generative AI,Python,LangChain,Google Vertex AI,Agentic AI,Materials science,Biomedical engineering,,Chemistry,Master's degree,,Tailwind,AWS,Supabase,Railway,OpenAI,,Reinforcement Learning,,,LangSmith,Pydantic,Data Engineering,5,AI Engineer,BluWave-ai,,,"About the job
+Are you ready to make a real impact on the world? Join our mission-driven team at the cutting edge of artificial intelligence and sustainable energy.
+
+At BluWave-ai, we’re harnessing AI-driven solutions to accelerate the adoption of clean energy, build smarter grids, and drive the electrification of transportation. If you're excited about using technology to create a greener, more efficient future, this is the place for you!
+
+Here, entrepreneurial mindsets thrive, career growth is nurtured, and your work directly contributes to a sustainable future. If you're eager to shape the next generation of renewable energy, we want you on our team.
+
+If you’re ready to be part of something bigger, join us and help power a cleaner tomorrow!
+
+What You’ll Do
+
+Develop and implement advanced time series forecasting models to predict future trends, demand, and other relevant variables. Apply techniques such as ARIMA, SARIMA, exponential smoothing, or machine learning algorithms tailored to time series data
+Clean, transform, and preprocess time series data to ensure data integrity and quality. Handle missing data, outliers, and other data anomalies appropriately
+Identify and engineer relevant features to improve the accuracy and performance of forecasting models. Incorporate domain knowledge to enhance feature selection and extraction
+Build, train, and evaluate forecasting models using appropriate evaluation metrics. Select and fine-tune models to achieve optimal performance
+Continuously monitor and validate the accuracy and performance of forecasting models over time. Identify and address issues related to model drift or degradation
+Collaborate with cross-functional teams, including stakeholders from different departments, to understand business requirements and provide actionable insights based on time series analysis and optimization
+Create clear and compelling visualizations, reports, and dashboards to effectively communicate forecasting results, optimization recommendations, and key insights to both technical and non-technical stakeholders
+Stay updated with the latest advancements in time series forecasting, optimization techniques, and related domains. Explore, research and develop innovative approaches to improve forecasting accuracy and optimization outcomes
+
+What You Bring
+
+Must Have
+
+Bachelor's or Master's degree in Computer Science, Statistics, Mathematics, or a related field
+3 years of experience in data science or a related field, with a focus on time series forecasting and optimization
+Knowledge and hands-on experience in developing time series forecasting models using statistical and machine learning approaches
+Programming Skills: Proficiency in Python for data manipulation, analysis, and model development
+Analytical Skills: Ability to apply mathematical concepts and statistical techniques to analyze complex time-dependent data and derive actionable insights
+Proficiency in data visualization and dashboarding tools like Grafana, Plotly, or similar
+Excellent verbal and written communication skills for presenting complex concepts and findings
+Proven ability to collaborate effectively in cross-functional teams
+Continuous Learning: Strong desire to stay updated with advancements in data science, time series forecasting, and optimization
+You are a pragmatic innovator who thrives in a fast-paced, disciplined, and team-oriented environment where we strive individually while supporting, learning from, and building on each other's ideas and efforts to succeed as a team
+
+Nice-to-Have
+
+Familiarity with control and optimization of modern power and energy systems
+Experience with optimization techniques such as linear programming, integer programming, and related tools (e.g. Pyomo, Gurobi, CPLEX)
+Understanding of machine learning model deployment strategies and monitoring techniques
+Familiarity with Kubeflow, MLflow, or similar for managing and deploying machine learning models
+Experience with Azure, AWS, or Google Cloud Platform and their machine learning services
+Knowledge of Apache Hadoop, Spark, or Hive and experience with large-scale time series datasets
+Familiarity with InfluxDB, Prometheus, or TimescaleDB for efficient time series data storage
+Experience with Git or similar version control tools for collaborative development
+
+Why Join Us?
+
+At BluWave-ai, we believe in taking care of our team just as much as we care about the planet. Here’s what you can look forward to:
+
+Work Your Way – Enjoy the flexibility of a hybrid work model, balancing remote and in-office collaboration
+Prioritize Your Well-Being – Take unlimited sick days because your health always comes first
+Recharge & Refresh – Start with two weeks of paid time off, increasing to three weeks after your second year
+Tailored Benefits – Choose from flexible employee benefit packages designed to fit your lifestyle
+Grow with Us – Share in our success with employee stock options
+Work Comfortably – Our relaxed dress code lets you be yourself
+Stay Active & Healthy – Take advantage of corporate gym rates and wellness reimbursements to support your fitness goals
+Invest in Your Future – After five years with us, take a well-earned sabbatical to recharge, explore, or pursue personal growth
+
+Diversity makes us stronger. BluWave-ai provides equal employment opportunities to all employees and applicants without regard to race, color, religion, sex, gender, national origin, disability, or any other characteristic protected by applicable laws, regulations, or ordinances. BluWave-ai’s core purpose is to facilitate the transition to a sustainable future with our technology. We live by that ethos and all corporate decision making considers the environmental impact.
+
+Authorization to work in Canada is required for this position. We encourage all levels of experience to apply.
+
+Powered by JazzHR
+
+cIfkGfhHJF"
+Jobs,,,remote,0,,,,,,,,,,,,,,,,,,,,,high school,,,,,,,,,,,,,,6,AI and Data - Senior Consultant - AI/ML Engineer - Ottawa,EY,,,"About the job
+At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+The opportunity
+
+Your Key Responsibilities
+
+Collaborate with our client stakeholders to understand use cases and key business processes that the AI solutions will support.
+Work closely with cross-functional teams, architects, engineers to translate requirements in robust AI solutions integrating without client’s technology stack
+Continuously learn, experiment, and test new AI tools, platforms, technologies, and techniques.
+Create comprehensive test plans for AI-based applications, covering functional, performance, security, and ethical considerations
+
+Skills And Attributes For Success.
+
+Strong problem-solving skills and the ability to think creatively to overcome obstacles.
+Ability to work independently with minimal supervision.
+Excellent communication and interpersonal skills, with the ability to work collaboratively with both technical and non-technical stakeholders.
+Excellent time management and organizational skills, with the ability to prioritize competing demands effectively.
+
+To qualify for the role you must have
+
+Bachelor's degree in Computer Science, Engineering, or a related field.
+Experience with cloud-based AI services (e.g., AWS, Azure, GCP)
+2+ years of experience developing AI/ML solutions, including at least 1 year of AI/ML testing experience.
+Proficiency in Python and frameworks such as Tensorflow, PyTorch, or Scikit-learn.
+Familiarity with version control tools (e.g., Git)
+Experience working in agile development environments. 
+
+Ideally, you’ll also have
+
+Strong understanding of testing methodologies and frameworks for AI systems, including bias testing, performance testing, and security testing.
+Familiarity with Large Language Models, Natural Language Processing (NLP), and AI frameworks.
+Experience with testing tools such as DeepChecks, or similar AI-focused.
+Experience in API integration and development.
+This role involves interaction with clients operating nationally and globally where fluency in French and English is required. Bilingualism in both French and English is therefore a requirement of this role
+
+What We Offer
+
+At EY, our Total Rewards package supports our commitment to creating a leading people culture - built on high-performance teaming - where everyone can achieve their potential and contribute to building a better working world for our people, our clients and our communities. It's one of the many reasons we repeatedly win awards for being a great place to work.
+
+We offer a competitive compensation package where you’ll be rewarded based on your performance and recognized for the value you bring to our business. In addition, our Total Rewards package allows you to decide which benefits are right for you and which ones help you create a solid foundation for your future. Our Total Rewards package includes a comprehensive medical, prescription drug and dental coverage, a defined contribution pension plan, a great vacation policy plus firm paid days that allow you to enjoy longer long weekends throughout the year, statutory holidays and paid personal days (based on province of residence), and a range of exciting programs and benefits designed to support your physical, financial and social well-being. Plus, we offer:
+
+Support, coaching and feedback from some of the most engaging colleagues around
+Opportunities to develop new skills and progress your career
+The freedom and flexibility to handle your role in a way that’s right for you
+
+Diversity and Inclusion at EY
+
+Diversity and inclusiveness are at the heart of who we are and how we work. We’re committed to fostering an environment where differences are valued, policies and practices are equitable, and our people feel a sense of belonging. We embrace diversity and are committed to combating systemic racism, advancing gender equity and women in leadership, advocating for the 2SLGBTQIA+ community, promoting our neuroinclusion and accessibility initiatives, and are dedicated to amplifying the voices of Indigenous peoples (First Nations, Inuit, and Métis) nationally as we strive towards reconciliation. Our diverse experiences, abilities, backgrounds, and perspectives make our people unique and help guide us. Because when people feel free to be their authentic selves at work, they bring their best and are empowered to build a better working world.
+
+EY | Building a better working world 
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today."

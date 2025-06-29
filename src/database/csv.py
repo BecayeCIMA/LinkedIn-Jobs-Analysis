@@ -15,5 +15,5 @@ def save_to_csv(data, folder, filename='jobs', colnames=None):
     if isinstance(data, list) and not isinstance(data, pd.DataFrame):
         data = create_dataframe(data, colnames)
 
-    path = join(folder, filename, '.csv')
+    path = join(folder, f'{filename}.csv')
     data.to_csv(path, encoding='utf-8-sig', index=False)
