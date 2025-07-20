@@ -1,56 +1,79 @@
-# Jobs-Mystery
+# LinkedIn Jobs Analysis
 
-Scraping Data Science jobs from LinkedIn and Storing them into a SQL Server database.
+**Exploring trends in Data Science job postings using automation, language models, and Power BI.**
 
-See the notebook `Job-Mystery.ipynb`.
+### Motivation
 
-### Situation
-As I was looking for an internship in Data Science, I needed to gain more information about the skills required to get a job in Data Science. However, manually gathering this info would have been a tedious task.
-Inspired by some friends, I decided to create a bot to do it for me.
+While exploring internship opportunities in Data Science, I wanted to better understand which skills and tools were in demand — across roles, industries, and locations. Instead of manually combing through countless job listings, I built a lightweight research pipeline to help me extract and visualize this information efficiently.
 
-### Action
-I use the following tools:
-* Selenium: a perfect tool for interacting with a browser from the comfort of my PyCharm code.
-* Python: elegant, beautiful, easy to use.
+### Approach
 
-### Results
-The bot was successfully launched and performed the following tasks:
+The project follows a three-step workflow:
 
-* Scraped job postings from LinkedIn.
-* Stored the scraped data into a Microsoft SQL Server database.
+1. **Browser Automation**
+   Using **Selenium**, I automated the navigation of publicly available job listings to extract posting content for analysis — just like a user browsing at scale.
+
+   > *Note: This was done respectfully, with rate-limiting and care to avoid violating LinkedIn’s terms.*
+
+2. **Natural Language Processing with LLMs**
+   Job descriptions were passed through **open-source language models** (via [Ollama](https://ollama.com)) to extract structured data like:
+
+   * Required skills
+   * Years of experience
+   * Educational background
+   * Tools and frameworks mentioned
+   * Role specializations (e.g. NLP, GenAI)
+
+3. **Visualization in Power BI**
+   The structured job data was loaded into **SQL Server**, then visualized in **Power BI** dashboards — revealing patterns and trends across hundreds of postings.
+
+### Tools Used
+
+* **Python**
+* **Selenium** for browser automation
+* **LLMs via Ollama** for parsing unstructured descriptions
+* **SQL Server** for data storage
+* **Power BI** for data visualization
+
+### Key Results
+
+* Extracted and analyzed job requirements from a diverse set of Data Science roles
+* Identified key skills and tools employers are seeking (e.g. Python, LLMs, cloud platforms)
+* Gained personal insights to guide my learning and application strategy
+
 
 <img width="946" alt="image" src="https://user-images.githubusercontent.com/87549214/232181049-bd6870ee-613c-4985-b937-ac9a23ea7d73.png">
 
----
-
-**TODO**
-- [x] Build a scraper bot
-- [x] Scrape jobs
-- [ ] Create a word cloud of skills.
-
----
 
 
 ## Code Structure
-The project is organized into the following files:
 
-### `Scraper.py`
-Scraper is the bot that interacts with LinkedIn to scrape jobs.
-
-### `Database.py`
-Database is an object that interacts with the database.
-
-### `CSV.py`
-CSV.py contains utility functions to save the data into a datframe.
-
-
+```
+src/
+│
+├── main.py
+│   ↳ Entry point for the project. Coordinates the scraping, parsing, and data storage pipeline.
+│
+├── bot/
+│   └── Scraper.py
+│       ↳ Automates interaction with LinkedIn using Selenium to collect job postings.
+│
+├── database/
+│   ├── sqlserver.py
+│   │   ↳ Manages connection to the SQL Server database and handles data insertion.
+│   └── csv.py
+│       ↳ Provides utility functions to save job data locally in CSV format.
+│
+└── utils/
+    ↳ Helpers functions.
+```
 
 ## How to use it
 
 1. Clone the repo
 ```
-git clone https://github.com/BecayeSoft/Jobs-Mystery.git
-cd Jobs-Mystery
+git clone https://github.com/BecayeSoft/LinkedIn-Jobs-Analysis.git
+cd LinkedIn-Jobs-Analysis
 ```
 
 2. Install the requirements in a virtual environment
@@ -71,11 +94,12 @@ EMAIL=youremail
 PASSWORD=yourpassword
 ```
 
-4. Run the main file
+4. Run
 
-Edit the main file to change the job title and the location of the job.
-Also, remove the database part if you don't have a Microsoft SQL Server database.
+You can use the notebooks for a more interactive experience, or run the main script directly.
+Change the job titles and the location according to your needs in the notebook or in the main file.
 
-```python
-python main.py
-```
+
+### References
+
+Thanks to <a href="https://medium.com/nerd-for-tech/linked-in-web-scraper-using-selenium-15189959b3ba">Matan Freedman</a> for its tutorial on Selenium and LinkedIn scraping
